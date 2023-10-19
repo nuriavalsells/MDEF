@@ -1,10 +1,10 @@
 # Replace the text below to customize your site
-site_name: Student Name - MDEF & Fab Lab Barcelona
+site_name: Núria Valsells Vilalta - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
-site_author: Student Name
-copyright: Copyleft 2023 "Student Name" - GNU Free Documentation License
+site_author: Núria Valsells Vilalta
+copyright: Copyleft 2023 "Nuria Valsells Vilalta" - GNU Free Documentation License
 repo_name: 'Name : Github Repo'
-site_url: https://fablabbcn.github.io/mdef-template/
+site_url: https://nuriavalsells.github.io/test/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 
@@ -15,6 +15,7 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
+          - Landing: term1/landing/gitclass.md 
           - Bootcamp: term1/01-Bootcamp.md
           - AoWS: term1/02-Atlas of Weak Signals.md
 
@@ -43,8 +44,8 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: blue
-    accent: purple
+    primary: yellow
+    accent: black
   font:
     # See available fonts at https://fonts.google.com/
     text: Be Vietnam
