@@ -15,13 +15,12 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
-          - Landing: term1/landing/gitclass.md 
-          - Bootcamp: term1/01-Bootcamp.md
-          - AoWS: term1/02-Atlas of Weak Signals.md
+          - Landing: term1/Landing.md 
+          - Design Studio: term1/Design Studio.md
+          - AoWS: term1/Atlas of Weak Signals.md
+          - Documenting Design: term1/Documenting Design.md
 
       - Term 2:
-          - digi: term1/01-Bootcamp.md
-          - studio: term1/01-Bootcamp.md
 
 
 
