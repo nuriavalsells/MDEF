@@ -2,7 +2,7 @@
 
 This is my MDEF Documentation
 
-![](../docs/images/Work%20in%20progress_Mesa%20de%20trabajo%201.jpg)
+![](../images/Work%20in%20progress_Mesa%20de%20trabajo%201.jpg)
 
 Sorry, we are still working on this page :( 
 Come back later for more!
