@@ -1,8 +1,13 @@
 # About
 
-![](../images/perezoso.jpg)
-![](../images/2022-07-2404-43-522.webp)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hello, my name is Nuria Valsells Vilalta, and I’m excited to introduce you to my MDEF documenation page. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+![](../images/logo.png)
+
+I’m a 24-year-old from Barcelona who graduated with a Bachelor’s degree in Industrial Design and Product Development Engineering from the Universitat Politècnica de Catalunya. After graduation, I began working at Azimut 360, a non-profit cooperative dedicated to the engineering and installation of photovoltaic systems, both nationally and internationally. However, I soon realized that my interests extended far beyond designing everyday objects and products in a more elegant, aesthetic way. I wanted to use my skills to make a positive impact on society.
+
+That’s why I pursued a Master’s degree in Social Design. Through my studies, I have expanded my knowledge and vision of industrial design as a tool for transforming everything that is already established. From industrial and manufacturing processes to the most everyday objects that perpetuate attitudes in society that need to change in order
+to move forward.
+
+In addition to my studies, I have also undertaken personal projects that are closely aligned with the values of social transformation and change. For example, I volunteered as a leisure monitor for 4 years for the association Minyons Escoltes i Guies, where I had the opportunity to educate children and develop my leadership skills. Thank you for taking the time to read my introduction, and I look forward to sharing my portfolio with you.

@@ -5,6 +5,9 @@ hide:
 
 # Atlas of Weak Signals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![](../images/Work%20in%20progress_Mesa%20de%20trabajo%201.jpg)
 
-![](../images/MT01/scorpio_blow.jpg)
+Sorry, we are still working on this page :( 
+Come back later for more!
+
+Núria
