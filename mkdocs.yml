@@ -16,8 +16,8 @@ nav:
   - Reflections :
       - Term 1:
           - Landing: term1/Landing.md
-          - Design Studio: term1/Design Studio/Design Studio.md
-          - Session 1: term1/Design Studio/Session 1.md
+          - Design Studio: term1/Design Studio.md
+          - Session 1: term1/Session 1.md
           - AoWS: term1/Atlas of Weak Signals.md
           - Documenting Design: term1/Documenting Design.md
 
