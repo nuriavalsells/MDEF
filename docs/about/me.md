@@ -3,7 +3,7 @@
 
 Hello, my name is Nuria Valsells Vilalta, and I’m excited to introduce you to my MDEF documenation page. 
 
-![](../images/logo.png)
+![](../images/logo.png){ width="300" }
 
 I’m a 24-year-old from Barcelona who graduated with a Bachelor’s degree in Industrial Design and Product Development Engineering from the Universitat Politècnica de Catalunya. After graduation, I began working at Azimut 360, a non-profit cooperative dedicated to the engineering and installation of photovoltaic systems, both nationally and internationally. However, I soon realized that my interests extended far beyond designing everyday objects and products in a more elegant, aesthetic way. I wanted to use my skills to make a positive impact on society.
 
