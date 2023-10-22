@@ -18,8 +18,10 @@ nav:
           - Landing: term1/Landing.md
           - Design Studio: term1/Design Studio.md
           - Session 1: term1/Session 1.md
-          - AoWS: term1/Atlas of Weak Signals.md
           - Documenting Design: term1/Documenting Design.md
+          - AoWS: term1/Atlas of Weak Signals.md
+          - The Machine Paradox: term1/The Machine Paradox.md
+          
 
 extra:
   social:
