@@ -15,12 +15,12 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
-          - Landing: term1/Landing.md
           - Design Studio: term1/Design Studio.md
-          - Session 1: term1/Session 1.md
+            - Session 1: term1/Session 1.md
           - Documenting Design: term1/Documenting Design.md
           - AoWS: term1/Atlas of Weak Signals.md
-          - The Machine Paradox: term1/The Machine Paradox.md
+          - The Machine Paradox: term1/The Machine Paradox2.md
+        
           
 
 extra:
