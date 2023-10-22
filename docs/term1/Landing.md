@@ -5,9 +5,7 @@ hide:
 
 # Landing
 
-![](../images/Work%20in%20progress_Mesa%20de%20trabajo%201.jpg)
+![](../images/Work%20in%20progress.jpg)
 
 Sorry, we are still working on this page :( 
 Come back later for more!
-
-Núria

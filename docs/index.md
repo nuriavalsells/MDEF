@@ -1,10 +1,6 @@
-## Welcome
 
-This is my MDEF Documentation
+Hi, I'm Nuria, a student in the Master in Design for Emergent Futures 2023/2024.
 
-![](../images/Work%20in%20progress_Mesa%20de%20trabajo%201.jpg)
+I'm excited to show you my joruney through my learnings and projects. Enjoy!
 
-Sorry, we are still working on this page :( 
-Come back later for more!
-
-Núria
+![](../docs/images/logo.png){ width="200" }
