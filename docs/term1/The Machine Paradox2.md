@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Landing
+# The Machine Paradox
 
 ![](../images/Work%20in%20progress.jpg)
 
