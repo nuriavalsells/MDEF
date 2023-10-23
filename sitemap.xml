@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://nuriavalsells.github.io/test/project/reviews/</loc>
+         <lastmod>2023-10-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://nuriavalsells.github.io/test/term1/Atlas%20of%20Weak%20Signals/</loc>
          <lastmod>2023-10-23</lastmod>
          <changefreq>daily</changefreq>
@@ -27,6 +32,11 @@
     </url>
     <url>
          <loc>https://nuriavalsells.github.io/test/term1/Session%201/</loc>
+         <lastmod>2023-10-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://nuriavalsells.github.io/test/term1/Session%202/</loc>
          <lastmod>2023-10-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
