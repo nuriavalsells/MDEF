@@ -11,3 +11,6 @@ Or follow me on [Instagram](https://www.instagram.com/nuriava.design/)
 
 
 _Contact: nuriavalsellsvilalta@gmail.com_
+
+
+![](../docs/images/logos2-03.jpg){ width="100" }
