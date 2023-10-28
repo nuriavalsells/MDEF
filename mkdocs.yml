@@ -16,7 +16,7 @@ nav:
       - Design Studio Reviews: project/reviews.md
   - Reflections :
       - Term 1:
-          - Design Studio:
+          - Design Studio: term1/Design Studio.md
             - Session 1: term1/Session 1.md
             - Session 2: term1/Session 2.md
           - AoWS: term1/Atlas of Weak Signals.md
