@@ -2,25 +2,27 @@
 site_name: núria valsells vilalta - MDEF 2023/24
 site_description: Master in Design for Emergent Futures
 site_author: núria valsells vilalta
-copyright: Copyleft 2023 "Nuria Valsells Vilalta" - GNU Free Documentation License
+copyright: Copyleft 2023 "Núria Valsells Vilalta" - GNU Free Documentation License
 repo_name: 'nuria : Github Repo'
 site_url: https://nuriavalsells.github.io/test/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 
 nav:
-  - Home: index.md
+  - Home: about/homepage.md
   - About: about/me.md
   - Master project:
-      - Initial ideas: project/project.md
       - Design Studio Reviews: project/reviews.md
+      - Design Space Evolution: project/Design Space.md
   - Reflections :
       - Term 1:
-          - Design Studio:
+          - Documenting Design: term1/Documenting Design.md 
+          - Design Studio: 
             - Session 1: term1/Session 1.md
             - Session 2: term1/Session 2.md
-          - AoWS: term1/Atlas of Weak Signals.md
+          - Atlas of Weak Signals: term1/Atlas of Weak Signals.md
           - The Machine Paradox: term1/The Machine Paradox2.md
+          - Living With Your Own Ideas: term1/Living With Your Own Ideas.md
         
           
 

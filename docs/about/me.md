@@ -1,5 +1,5 @@
 # Get to know me
-Hello, my name is Nuria Valsells Vilalta, and I’m excited to introduce you to my MDEF documenation page. 
+Hello, my name is Núria Valsells Vilalta, and I’m excited to introduce you to my MDEF documenation page. 
 
 ![](../images/ImageLogo.png){ width="400" }
  

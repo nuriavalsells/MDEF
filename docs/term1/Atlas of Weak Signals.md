@@ -5,6 +5,10 @@ hide:
 
 # Atlas of Weak Signals
 
+> Jana Tothill & Roger Guilemany
+
+> 10-11 October 2023
+
 **Reflection on the process of building your initial Design Space**
 
 Utilizing the AoWS method and adopting a multiscalar personal design space strategy, I crafted my initial design structure. This process facilitated my exploration of a variety of concepts that had never crossed my mind previously, at least not related to design. During this research, I discovered unexpected connections between various specific subjects, which have the potential to serve as activators to new original design approaches and concepts.

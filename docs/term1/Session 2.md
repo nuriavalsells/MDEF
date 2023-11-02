@@ -47,7 +47,9 @@ The four key roles a Design Intervention can have within a Design Space are:
 **_Exercise_**
 
 **- Start sharing the elements we have printed in a big board and relate them to the ones everyone brought.**
+
 **- In groups, create a Collective Design Space**
+
 **- Think about a Design Intervention to make within the shared interests and Design Space.**
 
 ______________________________

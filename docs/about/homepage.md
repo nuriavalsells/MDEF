@@ -1,7 +1,6 @@
+![loading picture](../docs/images/presentation.jpg)
 
-![](../docs/images/presentation.jpg)
-
-Hi, I'm Nuria, a student in the Master in Design for Emergent Futures 2023/2024.
+Hi, I'm Núria, a student in the Master in Design for Emergent Futures 2023/2024.
 
 I'm excited to show you my joruney through my learnings and projects. Enjoy!
 
@@ -13,4 +12,4 @@ Or follow me on [Instagram](https://www.instagram.com/nuriava.design/)
 _Contact: nuriavalsellsvilalta@gmail.com_
 
 
-![](../docs/images/logos2-03.jpg){ width="100" }
+![loading logo](../docs/images/logos2-03.jpg){ width="100" }

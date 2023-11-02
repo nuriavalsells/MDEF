@@ -6,11 +6,6 @@
 
 > **What?** Roles of Prototyping in 1PP Research through design
 
-_________________________
-**Contents**
-
-blablabla
-
 ______________________________
 **Reflection**
 
@@ -29,10 +24,17 @@ As for the _roles of prototyping._ I have little experience with prototyping and
 
 I see know the potential of prototyping and the fact that it doesn’t have to be perfect, only useful for the project. It is very interesting to have this possibility, the one I’m most interested about is the prototyping as a as a vehicle for inquiry. I believe people are more communicative and expressive when having their hands full, you can extract a lot of unrelated information form an specific practical activity with a group of people.
 
-DELIVERABLE: Extended workspace diagram
-This diagram shows the elements inside my personal extended workspace classi􀟔ed in two different ways: classi􀟔ed by reaching levels and classi􀟔ed by categories.
+_________________________
+**Deliverables**
+
+Extended workspace diagram
+
+This diagram shows the elements inside my personal extended workspace classifed in two different ways: classifed by reaching levels and classifed by categories.
+
 • Short reach: elements that i have contact with in my everyday life.
-• Middle-length reach: elements that i need to speciᾖcally look for.
+
+• Middle-length reach: elements that i need to specifcally look for.
+
 • Long reach: elements that aren֗ t known to me even though they are available.
 
 ![](../images/Design%20Studio/Extended%20workspace-02.jpg)
