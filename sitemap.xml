@@ -36,6 +36,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://nuriavalsells.github.io/test/term1/Biology%20Zero/</loc>
+         <lastmod>2023-11-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://nuriavalsells.github.io/test/term1/Design%20Studio/</loc>
          <lastmod>2023-11-04</lastmod>
          <changefreq>daily</changefreq>
@@ -57,6 +62,11 @@
     </url>
     <url>
          <loc>https://nuriavalsells.github.io/test/term1/Session%202/</loc>
+         <lastmod>2023-11-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://nuriavalsells.github.io/test/term1/Session%203/</loc>
          <lastmod>2023-11-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
