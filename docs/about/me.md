@@ -8,7 +8,9 @@ Hello, my name is Núria Valsells Vilalta, and I’m excited to introduce you to
 That’s why I pursued a Master’s degree in Social Design. Through my studies, I have expanded my knowledge and vision of industrial design as a tool for transforming everything that is already established. From industrial and manufacturing processes to the most everyday objects that perpetuate attitudes in society that need to change in order
 to move forward.
 
-In addition to my studies, I have also undertaken personal projects that are closely aligned with the values of social transformation and change. For example, I volunteered as a leisure monitor for 4 years for the association Minyons Escoltes i Guies, where I had the opportunity to educate children and develop my leadership skills. Thank you for taking the time to read my introduction, and I look forward to sharing my portfolio with you.
+I spent 1 year taking a Master in Social Design at NABA (Nuova Accademia di Belle Arti) in Milan, Italy. It was a very interesting year, I learned a lot from my teachers and collegues and I got to participate in meaningful projects that motivated me a lot. When I started, this last September, the second course of the Master, I realized that the second year wasn't gonna fufill my expectations and the experience wasn't motivating enough for me. The 15th of October I made the decision to move back to Barcelona and start the Master in Design for Emergent Futures.
+
+So far, I'm very happy with my decision and I think it will bring me a lot of positive things, while living again in my beloved Barcelona <3.
 
 
 
