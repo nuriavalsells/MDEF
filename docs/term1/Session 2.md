@@ -75,7 +75,14 @@ _- After changing your face, do you feel more like yourself or less like yoursel
 ______________________________
 **Reflection**
 
-blablabla
+**_Reflection on the Collective Design Space_**
+
+
+**_Reflection on the group work_**
+
+
+**_Personal Design Space update_**
+
 
 __________________
 **Deliverable**

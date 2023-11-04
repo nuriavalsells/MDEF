@@ -51,11 +51,11 @@ Even though the route I was taking was no different than the one I take everyday
 
 Things that could have been done better or differently:
 
-- Do an action that better reflects the tourist experience in Barcelona: the Tourist Bus maybe isn’t the most effective way to see Barcelona from a tourist perspective, I’ll keep in mind to explore other ways to pursue this goal.
+- **Do an action that better reflects the tourist experience in Barcelona:** the Tourist Bus maybe isn’t the most effective way to see Barcelona from a tourist perspective, I’ll keep in mind to explore other ways to pursue this goal.
 
-- Do it more times: it would be interesting to see how the experience changes when it’s repeated more than once.
+- **Do it more times:** it would be interesting to see how the experience changes when it’s repeated more than once.
 
-- Interact more with people: during the action i was completely a sponge, i didn’t intend to interact with anyone or anything actively, i wonder how this would change the experience.
+- **Interact more with people:** during the action i was completely a sponge, i didn’t intend to interact with anyone or anything actively, i wonder how this would change the experience.
 
 Reflections:
 

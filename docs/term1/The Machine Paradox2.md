@@ -96,7 +96,6 @@ It was very interesting, also, starting this project (that for me is a bit out o
 
 _28/10/2023 10:59_ - After presenting the final project the day before
 
-Certainly, here's the corrected version with the necessary spelling and grammar fixes:
 
 Yesterday, we presented our unuseful machine, The Fuck Duck Machine. Today, after a restful night and some time to reflect, I've gathered a few insights from the past few weeks.
 
