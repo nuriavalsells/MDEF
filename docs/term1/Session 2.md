@@ -46,11 +46,31 @@ The four key roles a Design Intervention can have within a Design Space are:
 
 **_Exercise_**
 
-**- Start sharing the elements we have printed in a big board and relate them to the ones everyone brought.**
+**A. Start sharing the elements we have printed in a big board and relate them to the ones everyone brought.**
 
-**- In groups, create a Collective Design Space**
+![](../images/Design%20Studio/CollectiveDesignSpaceMural.jpg)
 
-**- Think about a Design Intervention to make within the shared interests and Design Space.**
+**B. In groups, create a Collective Design Space**
+
+According to the Collective Design Space Mural we assembeled a group with similar interests. My group was formed by Annna, Everardo, Francisca and Drishya. Together we talked about our areas of interest and came up with a group Collective Design Space.
+
+![](../images/Design%20Studio/GroupCollectiveDesignSpace.jpg)
+
+**C. Think about a Design Intervention to make within the shared interests and Design Space.**
+
+Finally, after exploring many options we decided to conduct the following Design Intervention:
+
+_We've designed a collective Design Intervention to explore how alterations of your face can change your perception of yourself; either hide a part of you or enhance it. We want to give the possibility of changing your face to a specific group of people, and allow them to reflect on reconfiguration of the body. This change they can apply to their faces, might be on purpose to hide a part they don't like or either enhance another one they love._
+
+_For the intervention, we have organized an event or party at Everardo's house with our friends. We believe that the relaxed atmosphere of this type of space gives the participant more room to get carried away._
+
+_Our intervention wants to explore the following questions:_
+
+_- Did you choose to alter your face to hide or change a part of yourself you don't like? Or to enhace your existing identity?_
+
+_- After changing your face, do you feel more like yourself or less like yourself?_
+
+![](../images/Design%20Studio/DesignInterventionGIF.gif)
 
 ______________________________
 **Reflection**
@@ -60,4 +80,4 @@ blablabla
 __________________
 **Deliverable**
 
-video here
+To see how the intervention was developed, make sure to check out [the video](https://hackmd.io/1TI0p6wfRi2lh4JParedQA?view).
