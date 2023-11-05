@@ -3,8 +3,6 @@ hide:
     - toc
 ---
 
-# Design Studio
-
 The Design Studio class is a transversal semniar that will go on during the whole year.
 MDEF Research, Design and Development studios aim to take research areas of interest and initial project ideas into an advanced concretion point, and execution plan. The studio structure in three terms could be understood as follows:
 

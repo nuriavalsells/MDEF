@@ -3,8 +3,6 @@ hide:
     - toc
 ---
 
-# Living With Your Own Ideas
-
 > Oscar Tomico, Kristina Andersen & Angella Mackay
 
 > 31-2 November 2023

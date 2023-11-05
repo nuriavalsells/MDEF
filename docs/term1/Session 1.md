@@ -1,4 +1,4 @@
-# Design Studio: Session 1
+
 
 > **When?** 17th October 2023 (individual session online)
 

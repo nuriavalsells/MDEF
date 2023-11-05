@@ -1,4 +1,4 @@
-# Design Studio: Session 2
+
 
 > **When?** 23th October 2023
 

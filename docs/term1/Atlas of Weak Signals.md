@@ -3,7 +3,6 @@ hide:
     - toc
 ---
 
-# Atlas of Weak Signals
 
 > Jana Tothill & Roger Guilemany
 

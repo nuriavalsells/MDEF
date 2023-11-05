@@ -3,7 +3,6 @@ hide:
     - toc
 ---
 
-# The Machine Paradox
 
 > Santiago Fuentemilla Garriga, Guillem Camprodon, Oscar Gonzalez, Josep Marti Elias, Petra Garajová, Adai Surinach & Mikel Llobera
 

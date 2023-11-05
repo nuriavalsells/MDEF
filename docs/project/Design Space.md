@@ -7,3 +7,6 @@
 
 3. After some documentation, total change of the Design Space into a diagram with different areas of interests.
 ![](../images/Design%20Studio/DesignSpace3.jpg)
+
+4. After completing the Design Intervention with my group (find more about it in "second session" of the Design Studio), I added an extra part to the Design Space.
+![](../images/Design%20Studio/UpdatedDesignSpace.jpg)
