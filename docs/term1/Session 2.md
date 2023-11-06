@@ -108,4 +108,4 @@ __________________
 
 To see how the intervention was developed, make sure to check out the video.
 
-[![](../images/Design%20Studio/CollageDesignIntervention.jpg){ width="220" }![](../images/Design%20Studio/CollageDesignIntervention.jpg){ width="220" }![](../images/Design%20Studio/CollageDesignIntervention.jpg){ width="220" }](https://www.youtube.com/watch?v=1zEIuTPho34)
+[![](../images/Design%20Studio/CollageDesignIntervention.jpg){ width="220" }![](../images/Design%20Studio/CollageDesignIntervention.jpg){ width="220" }![](../images/Design%20Studio/CollageDesignIntervention.jpg){ width="220" }](https://drive.google.com/file/d/1ouCHZIsyBYMkY5GwD-QtFqxdCGDZjjHG/view?usp=sharing)
