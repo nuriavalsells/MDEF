@@ -9,7 +9,7 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 
 nav:
-  - home: about/homepage.md
+  - home: index.md
   - about: about/me.md
   - master project:
       - design studio reviews: project/reviews.md
