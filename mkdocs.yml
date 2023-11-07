@@ -15,6 +15,9 @@ nav:
       - design studio reviews: project/reviews.md
       - design space evolution: project/Design Space.md
   - reflections :
+      - design studio: 
+          - first session: term1/Session 1.md
+          - second session: term1/Session 2.md
       - term 1:
           - documenting design: term1/Documenting Design.md 
           - design studio: 
