@@ -36,3 +36,30 @@ Emotions that have provoked me to create a website for the first time:
 - Confidence 
 
 - Dependence on others 
+
+___
+Text styles:
+
+
+
+# Title 1
+
+## Title 2
+
+### Title 3
+
+==subrayar==
+
+**negrita**
+
+_cursive_
+
+**_cursiva i negrita_**
+
+<div style="background-color: #FFFFE0; padding: 10px; border: 1px solid #E6DB55;">
+This is a custom callout box or highlight using HTML and CSS.
+</div>
+
+<div style="text-align: center;">
+This text is center-aligned using HTML and inline CSS.
+</div>
