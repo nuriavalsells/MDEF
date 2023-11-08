@@ -11,9 +11,6 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 nav:
   - home: index.md
   - about: about/me.md
-  - master project:
-      - design studio reviews: project/reviews.md
-      - design space evolution: project/Design Space.md
   - reflections :
       - design studio: 
           - first session: term1/Session 1.md
@@ -24,6 +21,9 @@ nav:
           - the machine paradox: term1/The Machine Paradox2.md
           - living with your own ideas: term1/Living With Your Own Ideas.md
           - biology zero: term1/Biology Zero.md
+  - master project:
+    - design studio reviews: project/reviews.md
+    - design space evolution: project/Design Space.md
         
           
 
