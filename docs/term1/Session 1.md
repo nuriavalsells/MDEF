@@ -7,7 +7,7 @@
 > **What?** Roles of Prototyping in 1PP Research through design
 
 ______________________________
-**Reflection**
+## **Reflection**
 
 It is interesting to think about _the new role of designers_ as a change of positioning within the relationship it has with the community it wants to serve, to think about the First Person Perspective in design. 
 
@@ -25,7 +25,7 @@ As for the _roles of prototyping._ I have little experience with prototyping and
 I see know the potential of prototyping and the fact that it doesn’t have to be perfect, only useful for the project. It is very interesting to have this possibility, the one I’m most interested about is the prototyping as a as a vehicle for inquiry. I believe people are more communicative and expressive when having their hands full, you can extract a lot of unrelated information form an specific practical activity with a group of people.
 
 _________________________
-**Deliverables**
+## **Deliverables**
 
 Extended workspace diagram
 

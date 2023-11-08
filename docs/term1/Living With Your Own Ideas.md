@@ -7,7 +7,7 @@ hide:
 
 > 31-2 November 2023
 
-**What?**
+## **Content**
 
 The "Living With Your Own Ideas" seminar is focused on the First Person Perspective Design Research. This method is a new way for designers and creators to experiment their own design research on themselves (their body, their environment, theirs interests, theirs tools...)
 
@@ -21,16 +21,16 @@ At the end of the day, the goal of the First Person Perspective is to support af
 
 
 __________________
-**Deliverables**
+## **Deliverables**
 
-**_Create a companion_**
+### **_Create a companion_**
 
 The first deliverable of the seminar consists of a rapid lo-fi prototyping of a personal companion that wants to adress a topic of your live.
 In my case, i decided to create a "Do You Want a Hug Machine" to represent my relationship with the concept of love. Although my heart is internally a mess and doesn't know what it wants, a simple gesture as a hug will satisfy it momentarily.
 
 ![](../images/Living%20with%20your%20own%20ideas/Companion.png)
 
-**_First Person Perspective Design Intervention_**
+### **_First Person Perspective Design Intervention_**
 
 How does it feel to be out of context in Barcelona? Is Barcelona welcoming to non-local people? I decided to buy 24h Bus Turistic pass in Barcelona and spend a day moving around only with this transport. It has 2 lines of bus, I have a stop next to my house but Iaac is not very well communicated. By blending into the touristic bus i want to observe my own city with other eyes and see how i react when i place myself into an unknown context in my own city.
 
@@ -45,7 +45,7 @@ Even though the route I was taking was no different than the one I take everyday
 ![](../images/Living%20with%20your%20own%20ideas/Gif1.gif){ width="220" } ![](../images/Living%20with%20your%20own%20ideas/Gif2.gif){ width="220" } ![](../images/Living%20with%20your%20own%20ideas/Gif3.gif){ width="220" }
 
 
-**_Reflection_**
+### **_Reflection_**
 
 Things that could have been done better or differently:
 

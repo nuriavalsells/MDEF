@@ -1,9 +1,4 @@
----
-hide:
-    - toc
----
-
-
+# documenting design
 
 > Pablo Zuloaga Betancourt
 
@@ -60,6 +55,14 @@ _cursive_
 This is a custom callout box or highlight using HTML and CSS.
 </div>
 
+
+!!! info
+    Jana Tothill & Roger Guilemany
+    10-11 October 2023
+
 <div style="text-align: center;">
 This text is center-aligned using HTML and inline CSS.
 </div>
+
+<br></br>
+<div></div>
