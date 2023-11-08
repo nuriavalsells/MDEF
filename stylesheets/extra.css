@@ -1,14 +1,26 @@
 :root>* {
 
-    --md-footer-bg-color: white;
-    --md-footer-fg-color: rgb(32, 32, 32);
+    --md-footer-bg-color: #D87171;
+    --md-footer-fg-color: #ffffff;
     --md-footer-bg-color--dark: white;
-    --md-footer-fg-color--lighter:  rgb(32, 32, 32);
-    --md-footer-fg-color--light:  rgb(32, 32, 32);
-    --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
-    --mdc-typography-font-family: 'Be Vietnam', sans-serif;
-    --md-typeset-a-color: rgb(12, 240, 190);
+    --md-footer-fg-color--lighter:  #D87171;
+    --md-footer-fg-color--light:  #D87171;
+    --mdc-typography-headline6-font-family: 'Open Sans', sans-serif;
+    --mdc-typography-font-family: 'Open Sans', sans-serif;
+    --md-typeset-a-color: #D87171;
 
+}
+
+[data-md-color-scheme="mypalette"] {
+  --md-primary-fg-color:        #D87171;
+  --md-primary-fg-color--light: #D87171;
+  --md-primary-fg-color--dark:  #D87171;
+  --md-accent-bg-color:                   #D87171;
+  --md-accent-bg-color--light:            #D87171;
+  --md-accent-bg-color:                   #D87171;
+  --md-accent-fg-color:                  white;
+  --md-accent-fg-color--light:           white;
+  --md-accent-fg-color--transparent:      white;
 }
 
 
