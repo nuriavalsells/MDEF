@@ -9,21 +9,21 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 
 nav:
-  - home: index.md
-  - about: about/me.md
-  - reflections :
-      - design studio: 
-          - first session: term1/Session 1.md
-          - second session: term1/Session 2.md
-          - third session: term1/Session 3.md
-      - term 1:
+  - Home: index.md
+  - About: about/me.md
+  - Design studio: 
+    - first session: term1/Session 1.md
+    - second session: term1/Session 2.md
+    - third session: term1/Session 3.md
+  - Reflections :
+      - Term 1:
           - documenting design: term1/Documenting Design.md 
           - atlas of weak signals: term1/Atlas of Weak Signals.md
           - the machine paradox: term1/The Machine Paradox2.md
           - living with your own ideas: term1/Living With Your Own Ideas.md
           - biology zero: term1/Biology Zero.md
-  - master project:
-    - design studio reviews: project/reviews.md
+  - Master project:
+    - studio reviews: project/reviews.md
     - design space evolution: project/Design Space.md
         
           
