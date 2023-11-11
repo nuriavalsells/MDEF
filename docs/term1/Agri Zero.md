@@ -2,7 +2,7 @@
 
 > Jonathan Minchin
 
-> 14-16 November 2023
+>4-16 November 2023
 
 ---
 

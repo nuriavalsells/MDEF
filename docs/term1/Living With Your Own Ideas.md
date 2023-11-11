@@ -2,7 +2,7 @@
 hide:
     - toc
 ---
-# **Living with your own idea**
+# **Living with your own ideas**
 
 > Oscar Tomico, Kristina Andersen & Angella Mackay
 
