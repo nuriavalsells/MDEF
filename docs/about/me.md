@@ -1,4 +1,4 @@
-# Get to know me
+# get to know me
 Hello, my name is Núria Valsells Vilalta, and I’m excited to introduce you to my MDEF documenation page. 
 
 ![](../images/ImageLogo.png){: style="height: auto; width: 400px; margin-left: 120px"}

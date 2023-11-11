@@ -8,6 +8,17 @@
 _________________________
 ## **Contents**
 
+The contents of Laura's class were focused on the philosophical concept of narrative and story-telling. The first hour was a more theoretical hour in which Laura explained very well several concepts of various authors around the theme of Design Studio that day. During that hour we talked about power, bodies, interactions and relationships, matter, worl(d)ing, and, finally, **figures.**
+
+With the concept of figure, Laura proposed the first deliverable. It was an individual exercise that you can find in the "Deliverables" section.
+
+After the break, Laura proposed a second exercise. In this case, it was a group exercise. We all stood around the class and Laura started by tying a fennel stitch of red thread in her hand. The exercise consisted in passing the thread among all of us while controlling the network that was being formed with a reflection on how we are living the master and the learning of the last weeks.
+
+![](../images/Design%20Studio/wholePicture.jpg){width="320"}![](../images/Design%20Studio/ma.jpg){width="320"}
+
+The final result was a network of red thread that united us all, symbolizing the shared experience and the collective storytelling about our journey in the master.
+
+![](../images/Design%20Studio/end.jpg){width="300"}
 ______________________________
 ## **Reflection**
 This was my first philosophy class with Laura. The truth is that it seemed to me a very different class from the ones we have done so far. The contents that Laura explained to us are very far from what I have studied and it is a little difficult for me to follow the line sometimes. I think that, for all of us, it is even more difficult because it is not in our usual language.
