@@ -1,4 +1,4 @@
-
+# **First session**
 
 > **When?** 17th October 2023 (individual session online)
 
@@ -39,6 +39,4 @@ This diagram shows the elements inside my personal extended workspace classifed 
 
 ![](../images/Design%20Studio/Extended%20workspace-02.jpg)
 
-
-__________________
 

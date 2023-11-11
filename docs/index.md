@@ -1,6 +1,6 @@
 #
 
-![loading picture](images/presentation.jpg)
+![loading picture](images/presentation2.jpg)
 
 Hi, I'm Núria, a student in the Master in Design for Emergent Futures 2023/2024.
 

@@ -1,4 +1,4 @@
-# documenting design
+# **Documenting design**
 
 > Pablo Zuloaga Betancourt
 

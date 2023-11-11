@@ -1,3 +1,5 @@
+# **The machine paradox**
+
 > Santiago Fuentemilla Garriga, Guillem Camprodon, Oscar Gonzalez, Josep Marti Elias, Petra Garajová, Adai Surinach & Mikel Llobera
 
 > 17-27 October 2023

@@ -1,3 +1,5 @@
+# **Atlas of weak signals**
+
 > Jana Tothill & Roger Guilemany
 
 > 10-11 October 2023
