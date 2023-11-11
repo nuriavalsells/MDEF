@@ -4,6 +4,8 @@
 
 > 17-27 October 2023
 
+---
+
 ## **What?**
 
 The different goals of the Machine Paradox seminar were to talk about how technology affects society, explore new and unusual technologies that are out there but not widely known, make things quickly and effectively using various tools and methods, embrace a mindset of creativity and collaboration, and share what we know with others. 

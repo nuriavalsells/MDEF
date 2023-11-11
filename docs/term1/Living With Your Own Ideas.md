@@ -8,6 +8,8 @@ hide:
 
 > 31-2 November 2023
 
+---
+
 ## **Content**
 
 The "Living With Your Own Ideas" seminar is focused on the First Person Perspective Design Research. This method is a new way for designers and creators to experiment their own design research on themselves (their body, their environment, theirs interests, theirs tools...)
