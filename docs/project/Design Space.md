@@ -1,5 +1,7 @@
 # **Design space evolution**
 
+_The Design Space is the representation of my thinking process into my master's project._
+
 ### 1. First Design Space 
 The first iteration was made after the AoWS seminar and card game.
 ![](../images/Design%20Studio/AoWS%20-%20Design%20Space.jpg)

@@ -36,6 +36,8 @@ extra:
       link: https://www.instagram.com/nuriava.design/ 
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/n%C3%BAria-valsells/ 
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/vilaltanuu 
 
 theme:
   name: material
@@ -47,7 +49,7 @@ theme:
     code: Cutive Mono
   icon:
     logo: material/memory
-  favicon: images\logoPNG.png
+  favicon: images/Logo/logoPNG.png
   features:
     - instant
     - navigation.expand

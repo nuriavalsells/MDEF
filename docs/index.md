@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 #
 
 ![loading picture](images/presentation2.jpg)
@@ -14,4 +19,4 @@ Or follow me on [Instagram](https://www.instagram.com/nuriava.design/)
 _Contact: nuriavalsellsvilalta@gmail.com_
 
 
-![loading logo](images/logos2-03.jpg){ width="100" }
+![loading logo](images/Logo/logos2-03.jpg){ width="100" }
