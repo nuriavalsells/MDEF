@@ -70,6 +70,7 @@ plugins:
 markdown_extensions:
   - extra
   - smarty
+  - tables
   - admonition
   - pymdownx.details
   - pymdownx.superfences
