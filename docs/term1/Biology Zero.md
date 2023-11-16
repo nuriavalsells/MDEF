@@ -10,7 +10,6 @@
 
 The week we took the Biology Zero class with Nuria we were fortunate to make an experiment thet consisted in cultivating microbes.
 
-
 1.Build our own medium to host the microbes
 
 2.Sterilize the container with the medium in a pressure cooker and vert the medium into a, also sterile, petri dish.
@@ -30,16 +29,6 @@ ______________________________
 
 ### Design Idea
 The idea of this GMO modified domestic plant is to genetically modify plants to change color in response to water stress. This is achieved by introducing genes responsible for color changes, such as anthocyanin pigments, under the control of water stress-responsive promoters. When the plant is deprived of water, the promoter activates the color-changing gene, causing a visible color change. This method can serve as an indicator of plant water status and aid in the early detection of water stress.
-
-
-
-### Research and technical part
-https://pubmed.ncbi.nlm.nih.gov/21053046/
-https://newatlas.com/crispr-flower-change-color/51276/
-
-
-
-
 
 ### References
 
