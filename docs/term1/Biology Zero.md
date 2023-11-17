@@ -28,9 +28,38 @@ ______________________________
 ## **Deliverable**
 
 ### Design Idea
-The idea of this GMO modified domestic plant is to genetically modify plants to change color in response to water stress. This is achieved by introducing genes responsible for color changes, such as anthocyanin pigments, under the control of water stress-responsive promoters. When the plant is deprived of water, the promoter activates the color-changing gene, causing a visible color change. This method can serve as an indicator of plant water status and aid in the early detection of water stress.
+**Issue: Transmission of insect-borne diseases**
+
+The global problem of mosquito-borne diseases is a major health concern affecting many people around the world. Mosquitoes, especially certain species, can transmit diseases such as malaria, dengue fever, Zika virus and chikungunya. These diseases are more severe in poor areas and can lead to many illnesses and, unfortunately, even death. Mosquitoes are everywhere, and factors such as urban expansion and climate change are making the problem worse.
+
+**Possible solutions:**
+
+- Reduce the spread of disease
+
+- Disease resistant plants
+
+- Predatory insects that kill disease carriers
+
+**Organisms with similar functions in nature:**
+
+- Naturally Resistant Plants: Plants that naturally exhibit resistance to insect-borne diseases.
+
+- Predatory insects in ecosystems: understanding the mechanisms of population control of natural enemies of disease-carrying insects.
+
+**Property Recipient:**
+
+- Wild mosquito populations: Wild mosquito populations are genetically modified to reduce their ability to transmit disease.
+
+- Crop varieties: Implement disease resistance measures on key crop varieties to protect agricultural yields.
+
+- Predatory insects in urban environments: Enhancing natural enemies of disease-carrying insects to control their populations in urban areas.
+
+Other ecological balance considerations: We need to ensure that the introduction of modified organisms does not disrupt the natural balance of the ecosystem.
+
 
 ### References
+
+I wanted to include some GMO projects I've found while doing the deliverable:
 
 |     |                       |
 | ----------- | ------------------------------------ |
@@ -42,21 +71,12 @@ The idea of this GMO modified domestic plant is to genetically modify plants to 
 
 
 ### Bibliography
-- Harvard University. (2015). How to make a GMO. *Science in the News*. https://sitn.hms.harvard.edu/flash/2015/how-to-make-a-gmo/ 
-Molinari, S., Tesoriero, R. F., Li, D., et al. (2022). A de novo matrix for macroscopic living materials from bacteria. *Nature Communications, 13*, 5544. https://doi.org/10.1038/s41467-022-33191-2 
 
-- Fibershed. (2018). Synthetic Biology and Materials Innovation. https://fibershed.org/wp-content/uploads/2018/09/ETC_SynbioFabricsReport_8Fsm.pdf 
+Beisel.U, Böete.C. (2013). The Flying Public Health Tool: Genetically Modified Mosquitoes and Malaria Control. _Science as Culture_ , 22(1), 38-60. https://doi.org/10.1080/09505431.2013.776364  
 
-- Nishihara, M., & Nakatsuka, T. (2011). Genetic engineering of flavonoid pigments to modify flower color in floricultural plants. *Biotechnology Letters, 33*(3), 433-441. https://pubmed.ncbi.nlm.nih.gov/21053046/ 
+Rafikov.M, Bevilacqua.L, Wyse.A.P.P. (2008) Optimal control strategy of malaria vector using genetically modified mosquitoes. _Journal of Theoretical Biology_, 258(3), 418-425. https://doi.org/10.1016/j.jtbi.2008.08.006 
 
-- New Atlas (2017). CRISPR used to change flower color. https://newatlas.com/crispr-flower-change-color/51276/ 
-
-- The Conversation (2023). Genetically engineered bacteria make living materials for self-repairing walls and cleaning up pollution. https://theconversation.com/genetically-engineered-bacteria-make-living-materials-for-self-repairing-walls-and-cleaning-up-pollution-191411 
-
-- The Conversation (2023). Buildings grown by bacteria: New research is finding ways to turn cells into mini factories for materials. https://theconversation.com/buildings-grown-by-bacteria-new-research-is-finding-ways-to-turn-cells-into-mini-factories-for-materials-131279 
-Heveran, C. M., Liang, L., Nagarajan, A., et al. (2019). Engineered Ureolytic Microorganisms Can Tailor the Morphology and Nanomechanical Properties of Microbial-Precipitated Calcium Carbonate. *Scientific Reports, 9*, 14721. https://doi.org/10.1038/s41598-019-51133-9 
-
-
+Wilke, A. B. B., Gomes, A. de C., Natal, D., & Marrelli, M. T.. (2009). Controle de vetores utilizando mosquitos geneticamente modificados. _Revista De Saúde Pública_, 43(5), 869–874. https://doi.org/10.1590/S0034-89102009005000050 
 
 
 ______________________________
