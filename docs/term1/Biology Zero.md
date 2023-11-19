@@ -81,3 +81,7 @@ Wilke, A. B. B., Gomes, A. de C., Natal, D., & Marrelli, M. T.. (2009). Controle
 
 ______________________________
 ## **Reflection**
+
+With the Bio Zero seminar, I initially found myself somewhat not 100% interested with the topic of biology and science in general. The prospect of incorporating biology into my future projects seemed incidental, and I figured I could manage by reaching out to experts if needed. However, despite my low interest in the subject matter, I realized the significance of staying updated on scientific developments. This realization was sparked by Nuria's class, where the coverage of current scientific news caught my attention and became an aspect I found extremely intriguing.
+
+Moreover, I developed a newfound appreciation for the concept of using nature as a toolbox, especially in the realm of design. The idea of drawing inspiration and solutions from the natural world resonated with me. Even though the specific topic of the seminar may not have deeply captivated me, the broader perspective of staying informed about scientific advancements and embracing nature as a source of innovation left a lasting impression. It made me consider the broader implications and applications of these ideas beyond the immediate context of the seminar, potentially influencing my approach to future projects.

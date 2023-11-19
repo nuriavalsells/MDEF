@@ -89,8 +89,10 @@ The final result of our soil is the following:
 ![](../images/Agri%20Zero/5.5.jpg){width="330"}
 
 ______________________________
-## **Deliverable**
-
-
-______________________________
 ## **Reflection**
+
+My reflection on the Agri Zero seminar reflects a mixed experience. While the topic didn't fully align with my core interests, I found myself more engaged when the discussion shifted towards rural communities, their connection with nature, and the exploration of ancient methods. These aspects added a layer of relevance and intrigue to the subject matter for me.
+
+However, the broad nature of the class left me wanting more depth in a specific area. It felt like a surface exploration, and I yearn to delve deeper into a particular aspect. Despite the overall general nature of the seminar not resonating with me entirely, I did find pockets of interest that I'm keen to explore further on a more focused level.
+
+One highlight was the visit to Valldaura, where I was captivated by the concept presented. The integration of sustainable practices and the potential for collaboration piqued my interest. I would love to learn more about Valldaura and possibly explore opportunities for collaboration, as the innovative concepts introduced during the visit left a lasting impression on me.
