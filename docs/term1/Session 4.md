@@ -12,7 +12,8 @@ _________________________
 ______________________________
 ## **Deliverable/Intervention**
 
-![](../images/Design%20Studio/DS1.jpg){ width="630" }
+![](../images/Design%20Studio/DS1.jpg)
+{ width="630" }
 ______________________________
 ## **Reflection**
 

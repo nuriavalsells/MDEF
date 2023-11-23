@@ -14,9 +14,6 @@
 ### Soil research and installation
 
 
-### Group formation
-
-
 ### La Borda visit
 
 
