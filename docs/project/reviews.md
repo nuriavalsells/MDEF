@@ -20,3 +20,7 @@ With Roger we discussed that I will have to start focusing the seminars and acti
 My next goal is to reduce the design space based on what really interests me.
 
 Important note: Roger is encouraging me to take advantage of my "privilege" of being from Barcelona to complete the Design Space with references and resources that I already know and can reach.
+
+
+### 20th november, with Jana
+
