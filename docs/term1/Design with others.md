@@ -47,13 +47,12 @@ After we had replenished ourselves with so much information we proceeded to have
 
 In my case, the group I was part of, we were very interested in the biodiversity of the city, the coexistence between species and the use of architecture/design to re-integrate the animal world into the urban world.
 
-<br></br>
 
 ### Visits
 
 **Makers Zone BCN visit**
 
-![](../images/Design%20with%20others/D.1.jpg){style: width="340", align=right}
+![](../images/Design%20with%20others/D.1.jpg){style: width="380", align=left}
 
 The initiative aims to be "accessible to anyone" and to stimulate community engagement, becoming a reference point for diverse creative activities. The association behind the project consists of individuals with varied interests, ranging from cosplay and decoration to carpentry, forging, and laser work. The goal is to establish a versatile maker space where anyone can participate and promote traditional craftsmanship. To use the tools, individuals need to become members and pay a monthly fee, and the space also offers stable workstations, resembling a coworking environment but with noise, smells, and people constantly engaging in creative activities. The founders emphasize the importance of a multifunctional space that encourages continuous knowledge exchange while maintaining well-defined areas for specific material usage. 
 
