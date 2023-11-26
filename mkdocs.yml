@@ -66,7 +66,7 @@ theme:
 plugins:
   - search
   - git-revision-date-localized:
-      fallback_to_build_date: true
+      fallback_to_build_date: true 
 
 markdown_extensions:
   - extra
@@ -82,7 +82,7 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
-
+  - attr_list
   - md_in_html
   - admonition
   - codehilite
