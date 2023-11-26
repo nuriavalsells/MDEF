@@ -37,7 +37,9 @@ In my case, i decided to create a "Do You Want a Hug Machine" to represent my re
 
 How does it feel to be out of context in Barcelona? Is Barcelona welcoming to non-local people? I decided to buy 24h Bus Turistic pass in Barcelona and spend a day moving around only with this transport. It has 2 lines of bus, I have a stop next to my house but Iaac is not very well communicated. By blending into the touristic bus i want to observe my own city with other eyes and see how i react when i place myself into an unknown context in my own city.
 
-[**Click here to see the video**](https://vimeo.com/880621643?share=copy)
+<iframe src="https://player.vimeo.com/video/880621643?h=e40622ca4b" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/880621643">Bus Turistic</a> from <a href="https://vimeo.com/user210509888">Nuria Valsells i Vilalta</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 
 The experience started from Iaac, Thursday November 2nd, when I embarked on the journey to get to the tourist bus to get back home. It took me 2 hours to get home, I had to stop to change lines and I forced myself to listen to the audio guide the whole way. At first, it felt a bit challenging to adapt to the new mode of transportation since I’m so accustomed to the public one but once i got the the station i just had to buy my tickets, that’s when I felt shy to speak catalan in such an “international” environment, it also felt like the workers who attended me were also surprised.
 

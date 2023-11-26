@@ -63,6 +63,9 @@ The result from a full bag of laurel leafs was a small portion of laurel essenti
 
 ![](../images/Agri%20Zero/4.1.jpg){width="330"} --> ![](../images/Agri%20Zero/4.6.jpg){width="248"}
 
+Our colleage Nicoló made a cool video about the process:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1yX_C6PKxl8?si=IkmctYuKiR5QpIbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### _Soil analysis_
 Also on Tursday 16th, we split into 4 groups and started anaylizing a type of soil Jonathan gave us. In my case it was soil from Delta de l'Ebre, south Catalunya.
 
