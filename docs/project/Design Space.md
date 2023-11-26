@@ -2,6 +2,8 @@
 
 _The Design Space is the representation of my thinking process into my master's project._
 
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNUmTlgA=/?moveToViewport=12882,-3798,12345,6644&embedId=958967673441" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
 ### 1. First Design Space 
 The first iteration was made after the AoWS seminar and card game.
 ![](../images/Design%20Studio/AoWS%20-%20Design%20Space.jpg)

@@ -24,3 +24,8 @@ Important note: Roger is encouraging me to take advantage of my "privilege" of b
 
 ### 20th november, with Jana
 
+The review I had with Jana last monday I liked because it was the first one in which we didn't focus on the Design Space. Sometimes it is more useful for me to have a calm conversation about my interests and my thoughts than to focus, alone, on the tool that the Design Space becomes.
+
+With Jana we talked about the intervention we had designed the previous hours in class. With my group we had drawn a conceptual map of interests and thanks to the review I realized that, in reality, I was only interested in a part of that map. I took the opportunity to talk to the group and tell them what I had thought, so we could continue working with everyone's interests in mind.
+
+On the other hand, we also talked about the last intervention, the first one we had done. I felt a bit useless because I had not taken anything clear or new out of this action and I was a bit overwhelmed with this. I was reassured to see that I had actually learned a lot about ways of working, people to work with and that is a valuable learning in itself. 
