@@ -8,6 +8,24 @@
 _________________________
 ## **Contents**
 
+The contents we were given in the fourth design studio session revolved around "reflection as a design tool". They way I understood it the most was with the following tool:
+![](../images/Design%20Studio/CI_Content.png)
+
+After we complete an intervention or a design or a project, it is crucial to go through the process of reflection. To reflect means to learn, to look back and to ask questions to yourself in order to go forward. 
+
+In our course we have many ways of reflecting and they are structred in 3 levels:
+
+- deliverables → reflective diary
+
+- feedback/reviews → reflective critique
+
+- design studio → reflective dialogue
+
+<br></br>
+
+With that in mind, we had to go back to the collective design space and add/move/take out the papers and threads according to our reflection after the first intervention.
+
+Once this was done we had to form new groups to create the second collective intervention.
 
 ______________________________
 ## **Deliverable/Intervention**
