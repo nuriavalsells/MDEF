@@ -21,7 +21,9 @@ __________________
 
 The first part of the seminar (first 4 days) was about the forensics of obsolescence. This concept wants to talk about how technology isn't a neutral element; it depends on many factors such as economic powers, influences, certain interests… At the end of the day, technology is a cultural artifact; it represents the society it grows into, and within the whole process of developing technology, many cultural decisions have to be made.
 
-The deliverable of the first part of the seminar was a Forensic Report on a chosen machine. I was lucky enough to work with Marius, Anna, Jorge, Flora, and Anthuanet to deliver [the document of the Forensic Report](https://hackmd.io/1TI0p6wfRi2lh4JParedQA?view).
+The deliverable of the first part of the seminar was a Forensic Report on a chosen machine. I was lucky enough to work with Marius, Anna, Jorge, Flora, and Anthuanet to deliver the document of the Forensic Report.
+
+<iframe src="https://drive.google.com/file/d/105ieokSTym3VYwon_idnZqlw5wUHru0g/preview" width="640" height="480" allow="autoplay"></iframe>
 
 To create the document, we went through a process of disassembling an old LCD screen from beginning to end. We started by disassembling the main parts to understand it, then assembling them again to see which components were working and which weren't. We found out the connection between the motherboard and the screen wasn't working, so the machine was powered and turned on but couldn't play any content.
 
@@ -79,7 +81,9 @@ The process of 3D printing was difficult and long, and we soon realized that we 
 Finally, the challenge was to create a "cover" that would activate both buttons at the same time and allow the electricity to pass to the finger pressing it. We considered plastic, but we were faced with the same problem as before; it was too complex and time-consuming (we were running out of time at this point). We finally built a 3-layer wooden cover to go on top of the buttons with a hole for the cable to electroshock. The last problem we had was that the electricity didn't go through the cable if the wooden cover was on, and, in fact, it only worked if a finger or a metallic piece pressed it. We solved the problem by putting copper tape around it.
 
 <br></br>
-Once we all finished the building process, we had the **final result** of our Fuck Duck Machine. It was the moment to shoot a <1 minute video self-explanatory on how the machine worked and what it did. We received help to draw our storyboard, and once this was done, the filming process was pretty quick. We got to do some acting and have some fun after finishing the machine. You will find the [video here](https://youtu.be/b1Z73PcCkZQ).
+Once we all finished the building process, we had the **final result** of our Fuck Duck Machine. It was the moment to shoot a <1 minute video self-explanatory on how the machine worked and what it did. We received help to draw our storyboard, and once this was done, the filming process was pretty quick. We got to do some acting and have some fun after finishing the machine.
+
+<iframe width="660" height="371" src="https://www.youtube.com/embed/Cw9eDJttGkw?si=zP2x9b1bRFRuAtEb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 ![](../images/The%20Machine%20Paradox/video.jpg)
 
@@ -93,7 +97,8 @@ The thing that has shocked me the most these 3 days has been the disassembling p
 Learning the physical elements behind a screen, that for me is something unreal, untouchable, doesn’t belong to the world of objects, made me open my view to other products i use in my everyday life and think how might they be made, what’s inside of them…
 
 It has reminded me of a video made by a friend of mine, very worth seeing:
-https://vimeo.com/875316804 
+<iframe src="https://player.vimeo.com/video/875316804?h=e80e73e00e" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/875316804">The impact of the internet</a> from <a href="https://vimeo.com/user18373715">helena boet</a> on <a href="https://vimeo.com">Vimeo</a>.</p> 
 
 It was very interesting, also, starting this project (that for me is a bit out of my league) with people I don't know, at all. It has been working out very well, I'm glad to see we all have a proactive attitude towards the class and I'm enjoying getting to know them through it. 
 
