@@ -49,9 +49,8 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: Open Sans
     code: Cutive Mono
-  icon:
-    logo: material/memory
-  favicon: images/Logo/logoPNG.png
+  logo: images/Logo/logoBlanc.png
+  favicon: images/Logo/logoNegre.png
   features:
     - instant
     - navigation.expand
