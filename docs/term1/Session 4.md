@@ -30,8 +30,41 @@ Once this was done we had to form new groups to create the second collective int
 ______________________________
 ## **Deliverable/Intervention**
 
-![](../images/Design%20Studio/DS1.jpg)
-{ width="630" }
+My group was made by Carmen, Sophie and myself. We started talking about our interests and ended up writting a Collective Design Space to have a clearer vision of our common interests.
+
+![](../images/Design%20Studio/DS1.jpg){ width="630" }
+
+Our intervention involved all the members of our class and some of our friends outside the master.
+
+The aim of the exercise was to make people think about their digital identity, **how are we perceived on the internet?**
+
+1.We asked our classmates for permission to show their Instagram profiles to our friends.
+
+2.We created a survey with very specific and limited response questions in order to have the same model with everyone.
+
+![](../images/Design%20Studio/4SurveyPicture.png)
+
+3.We showed the 18 profiles to our friends, each profile was analyzed only once. They had to answer the survey while analyzing the profile.
+
+![](../images/Design%20Studio/4Profiles.gif)
+
+4.We collected all the data about the profiles and put them in anonymous card format, in order to set up the game.
+
+![](../images/Design%20Studio/4cards.jpg){ width="330" }
+
+5.We asked people in the class to try to identify themselves with one of the profiles we had hung on the wall. When they identified themselves they had to paste their picture on the card.
+
+![](../images/Design%20Studio/4Time%20Lapse.gif)
+
+6.We revealed the final solution of the people to whom the profiles corresponded, and recorded their reactions.
+
+![](../images/Design%20Studio/4BeforeAfter.png)
+
+7.We conducted interviews to find out if they identified with the description our friends had made of them.
+
+VIDEO
+
+
 ______________________________
 ## **Reflection**
 
