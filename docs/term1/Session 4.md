@@ -35,40 +35,42 @@ ______________________________
 ______________________________
 ## **Reflection**
 
-This week's reflection will be driven by a set of question that want to represent WHAT NOW, after doing the second intervention?
+1. **Biases in Answers:**
+   It's important to know that the people giving opinions might have their own personal preferences or views. We should tell them about this before the activity so that everyone understands that the results might be a bit one-sided.
 
-➔ how will you apply what you learned from your experience?
+2. **Missing Political Question:**
+   We forgot to ask about people's political views, and that could have been interesting. Even though it's a tricky topic, it can tell us a lot about how people see each other online.
 
-_afwnpevnwpe_
+3. **Limited Questions and Similar Answers:**
+   The questions we asked had only a few possible answers, making everyone's profiles seem kind of the same. It would be better to have more varied questions that let people share more about themselves.
 
-➔ what would you like to learn more about, related to this project or issue?
+4. **Class Reactions:**
+   The coolest part was seeing how everyone reacted when we showed them what others thought about them. This made everyone think about how they present themselves online and what others might think.
 
-_afwnpevnwpe_
+In the future, we can make the questions more open-ended and talk about possible biases before starting. We could also try asking about political views, even if it's a bit tricky. This exercise was great for making us think about how we come across online and how others see us.
 
-➔ what follow-up is needed to address any challenges or difficulties?
 
-_afwnpevnwpe_
+### What now?
+➔ **what would you like to learn more about, related to this project or issue?**
 
-➔ what information can you share with your peers or the community?
+The mental health implications there can be when we talk about digital identity. Many people aren't aware they are creating a digital identity when using social media, but it's intrinsic in the use of these platforms. Whether we want it or not, they way we are perceived by others can affect our mental health and I would like to learn more about the implications it can have to our well-being.
 
-_afwnpevnwpe_
+➔ **what follow-up is needed to address any challenges or difficulties?**
 
-➔ if you could do the project again, what would you do differently?
+Maybe a previous conversation with the people involved on the topic, so we can also analyze the mental process happening when they discover how they are being perceived by others.
 
-_afwnpevnwpe_
+➔ **if you could do the project again, what would you do differently?**
 
-➔ how will your efforts on this project contribute to social change?
+After doing the exercise, I would change some questions of the survey and also the way we approached people's reactions to their digital profile. I think many people took it as a game and many reflections were lost by approaching it like a fun thing and now like an exercise of self-reflection.
 
-_afwnpevnwpe_
+➔ **how will your efforts on this project contribute to your career?**
 
-➔ how will your efforts on this project contribute to your career?
+I think I'm shaping a path on my career that doesn't have a clear end, but that is visibly touching some social and contemporary issues like mental health and life in the digital era.
 
-_afwnpevnwpe_
+➔ **how can society better address the problem from the project?**
 
-➔ how can society better address the problem from the project?
+It's a complex issue to address because it's a big one, I think the first step is to reflect on it and make people aware of it. From here, we could redesign the way we use social media or how social media is designed in order to reduce the negative impact in can have in our mental health and self-esteem.
 
-_afwnpevnwpe_
+➔ **where do you go from here? What is the next step in the process?**
 
-➔ where do you go from here? What is the next step in the process?
-
-_afwnpevnwpe_
+I don't know where I'm going from this. At the moment I want to keep exploring a little bit, not close any doors and continue shaping my path.
