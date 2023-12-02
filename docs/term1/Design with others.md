@@ -96,3 +96,29 @@ You will find our whole thinking process in this Miro Board:
 ______________________________
 ## **Final Reflection**
 
+Thinking about the project where we worked on making Carrer d’Àlaba in Barcelona more biodiverse, I had some good and not-so-good feelings about it.
+
+**What Went Well:**
+
+1. **Teamwork:**
+   It was nice working with different people. Everyone had their own ideas, and it was interesting to see how we could put them all together.
+
+2. **Focus on Community:**
+   Instead of just coming up with a final design, we decided to get the community involved. We wanted people to care about making their street more full of life, especially for pollinators like bees.
+
+3. **Small Actions Instead of Big Designs:**
+   We chose to do small things with the community instead of just making one big thing. This way, we could keep working with the community and not just finish a project and leave.
+
+**What Could Have Been Better:**
+
+1. **Not Enough Time:**
+   The biggest problem was that we didn't have enough time. Making a whole plan for the community in just a week was tough. More time would have helped us think deeper.
+
+2. **Missing Theoretical Learning:**
+   I wish we had learned more theory about the problems we were trying to solve. Understanding more about biodiversity and community engagement would have made our plan stronger.
+
+3. **Need for Examples:**
+   It would have been great to see examples of other projects like ours. Seeing what worked in other places could have given us good ideas.
+
+**Final Thoughts:**
+I liked the project, but having more time and learning more theory would have made it better. Also, looking at other projects could have given us cool ideas. I learned that making a community care about something is more important than just making something for them. In the future, I hope we have more time for projects and learn more about the theories behind what we're doing.
