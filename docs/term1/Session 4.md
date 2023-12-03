@@ -62,7 +62,7 @@ The aim of the exercise was to make people think about their digital identity, *
 
 7.We conducted interviews to find out if they identified with the description our friends had made of them.
 
-VIDEO
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OIIXZlqX_4c?si=qhVkOniNL2pFXMcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ______________________________
