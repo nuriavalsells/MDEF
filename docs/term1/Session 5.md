@@ -1,17 +1,25 @@
-# **Fourth session**
+# **Fifth session**
 
-> **When?** 4th December 2023
+> **When?** 4-19 December 2023
 
 > **Who?** Roger Guilemany and Jana Tothill
 
-> **What?** -
+> **What?** Design Dialogues
 _________________________
-## **Contents**
+# **DESIGN DIALOGUES I**
 
+## First Term Documentation
+
+## Interest flow
+
+## Design Space
+
+## Intervention
 
 ______________________________
-## **Deliverable/Intervention**
+# **Reflection**
+
+### Preparation of the Design Dialogues I
 
 
-______________________________
-## **Reflection**
+### Day of Design Dialogues I
