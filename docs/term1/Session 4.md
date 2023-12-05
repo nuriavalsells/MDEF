@@ -38,31 +38,31 @@ Our intervention involved all the members of our class and some of our friends o
 
 The aim of the exercise was to make people think about their digital identity, **how are we perceived on the internet?**
 
-1.We asked our classmates for permission to show their Instagram profiles to our friends.
+1- We asked our classmates for permission to show their ==Instagram profiles to our friends.==
 
-2.We created a survey with very specific and limited response questions in order to have the same model with everyone.
+2- We created a ==survey== with very specific and limited response questions in order to have the same model with everyone.
 
 ![](../images/Design%20Studio/4SurveyPicture.png)
 
-3.We showed the 18 profiles to our friends, each profile was analyzed only once. They had to answer the survey while analyzing the profile.
+3- We showed the 18 profiles to our friends, each profile was analyzed only once. They had to answer the survey while ==analyzing the profile.==
 
 ![](../images/Design%20Studio/4Profiles.gif)
 
-4.We collected all the data about the profiles and put them in anonymous card format, in order to set up the game.
+4- We collected all the data about the profiles and put them in ==anonymous card format,== in order to set up the game.
 
 ![](../images/Design%20Studio/4cards.jpg){ width="330" }
 
-5.We asked people in the class to try to identify themselves with one of the profiles we had hung on the wall. When they identified themselves they had to paste their picture on the card.
+5- We asked people in the class to try to ==identify themselves== with one of the profiles we had hung on the wall. When they identified themselves they had to paste their picture on the card.
 
 ![](../images/Design%20Studio/4Time%20Lapse.gif)
 
-6.We revealed the final solution of the people to whom the profiles corresponded, and recorded their reactions.
+6- We ==revealed the final solution== of the people to whom the profiles corresponded, and recorded their reactions.
 
 ![](../images/Design%20Studio/4BeforeAfter.png)
 
-7.We conducted interviews to find out if they identified with the description our friends had made of them.
+7- We conducted ==interviews== to find out if they identified with the description our friends had made of them.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OIIXZlqX_4c?si=qhVkOniNL2pFXMcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKH_jqh5M-Q?si=nGDUn7Zb0YWiNc4D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ______________________________
