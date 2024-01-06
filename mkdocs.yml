@@ -19,7 +19,10 @@ nav:
       - biology zero: term1/Biology Zero.md
       - agriculture zero: term1/Agri Zero.md  
       - design with others: term1/Design with others.md
-      - extended intelligences: term1/Extended Intelligences      
+      - extended intelligences: term1/Extended Intelligences
+  - Term 2:
+      - state of climate emergency: term2/ClimateEmergency.md
+
   - Design studio: 
     - first session: term1/Session 1.md
     - second session: term1/Session 2.md
