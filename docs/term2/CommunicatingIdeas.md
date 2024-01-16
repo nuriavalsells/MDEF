@@ -6,9 +6,20 @@
 
 ---
 
-## **Contents**
+## Session 1 - 16th January
+
+### **Contents**
 
 ______________________________
-## **Deliverable**
+### **Deliverable**
+
+______________________________
+
+## Session 2 - 30th January
+
+### **Contents**
+
+______________________________
+### **Deliverable**
 
 ______________________________
