@@ -2,13 +2,13 @@
 
 > Andrés Colmenares
 
-> 2-12 Gener 2024
+> 2-12 January 2024
 
 ---
 
 ## **Contents**
 
 
-______________________________
+---
 ## **Final Reflection**
 
