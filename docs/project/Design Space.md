@@ -1,21 +1,5 @@
-# **Design space evolution**
+# **Design Space**
 
 _The Design Space is the representation of my thinking process into my master's project._
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNUmTlgA=/?moveToViewport=12882,-3798,12345,6644&embedId=958967673441" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
-
-### 1. First Design Space 
-The first iteration was made after the AoWS seminar and card game.
-![](../images/Design%20Studio/AoWS%20-%20Design%20Space.jpg)
-
-### 2. From digital to analog
-Decision to switch to analog to be able to move better and add/remove elements.
-![](../images/Design%20Studio/DesignSpace2.jpg)
-
-### 3. Back to digital, the real first DS
-After some documentation, total change of the Design Space into a diagram with different areas of interests.
-![](../images/Design%20Studio/DesignSpace3.jpg)
-
-### 4. Design Intervention nº1
-After completing the Design Intervention with my group (find more about it in "second session" of the Design Studio), I added an extra part to the Design Space.
-![](../images/Design%20Studio/UpdatedDesignSpace.jpg)
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNL418H8=/?moveToViewport=-5270,-21440,27977,14862&embedId=962069937362" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>

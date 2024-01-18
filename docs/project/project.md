@@ -1,12 +1,8 @@
----
-hide:
-    - toc
----
+# **Thesis Drafts**
 
-# Initial ideas
+## First term delivery
 
-![](../images/Work%20in%20progress.jpg)
+<iframe src="https://drive.google.com/file/d/1I9sDdYZO1lWkcFMpgL97-nxUQD5W_dN9/preview" width="640" height="480" allow="autoplay"></iframe>
 
-Sorry, we are still working on this page :( Come back later for more!
 
 
