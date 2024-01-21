@@ -8,17 +8,17 @@
 
 ## Session 1 - 16th January
 
-### **Contents**
+### Personal Project
+Stakeholders communication radar:
 
 
-### **Deliverable**
+### Tandem Project
 
 
 ---
 ## Session 2 - 30th January
 
-### **Contents**
+### Personal Project
 
-
-### **Deliverable**
+### Tandem Project
 
