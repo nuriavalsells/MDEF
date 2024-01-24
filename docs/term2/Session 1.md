@@ -19,40 +19,38 @@ The main qualities are the following:
 
 **_Defined study boundaries:_** being able to describe the limits if the study
 
-- Can I understand the object of my study?
-- Can I define tge boundaries of my study?
+- Can I understand the object of my study? Can I define tge boundaries of my study?
 
 **_Authenticity:_** Being personally involved, thoroughness for validity
 
-- Was my FPP authentic?
-- Was it meaningful?
+- Was my FPP authentic? Was it meaningful?
 
 **_Plausibility or Scholarship:_** How is it relevant to ongoing research?
 
-- Is this useful? 
-- Can it be written and explained?
+- Is this useful? Can it be written and explained?
 
 **_Criticality:_** Imagining ways of thinking and acting differently
 
-- So what?
-- Did my actions make me learn about other things?
+- So what? Did my actions make me learn about other things?
 
 **_Self-revelaing communication:_** be honest with your findings. Communicate in an open transparent way
 
-- Did I show my work transparently?
-- Was there something I didn't show? Why?
+- Did I show my work transparently? Was there something I didn't show? Why?
     
 **_Ability to Generalize:_** how does your FPP research relate to others? How do I scale-up from the "self"?
 
-- Does it relate to others, can it be meaningful for others? 
-- What kind of profile is the one which I am looking at?
+- Does it relate to others, can it be meaningful for others? What kind of profile is the one which I am looking at?
 
 <br></br>
 
-**Alternative Presents:** understanding our overaching narratives. Making sense of the alternative presents you are creating with the support of...
-Video to watch again: citizen science revolution - making sense horizon project
+**Alternative Presents:** "_Alternative presents give designers the key to opening escape routes to the present continuities, offering space to radically imagine and probe discontinuities that would offer different outcomes in favor of more optimistic future scenarios than the ones we are being presented as the most plausible results of our current business-as usual practices._"
 
-==ETC==
+-Tomico, Oscar
+
+==**_Exercise 1. From present continuities to alternative present_**==
+
+![](../images/Design%20Studio2/Design%20Process.jpg)
+
 
 <br></br>
 
@@ -60,26 +58,22 @@ Video to watch again: citizen science revolution - making sense horizon project
 
 Different ways:
 
+![](../images/Design%20Studio2/ways%20of%20drifting.png)
+
 - **_Accumulative:_** Focusing on a specific aspects, Allows for deep understanding of a topic
-- **_Comparative:_** Different perspectives on the same topic,
+- **_Comparative:_** Different perspectives on the same topic, Allows for exploring different contexts
 - **_Serial:_** DI are informed by previous ones, DI follow a particular order
-- **_Probing:_** Exploit opportunities as they emerge, Personal motivations in specific enironments, Clear area of interest pre-defined
+- **_Probing:_** Exploit opportunities as they emerge, Personal motivations in specific environments clear area of interest pre-defined
 - **_Expansive:_** DI to explore new areas of interest, Not an specific order
 
-<br></br>
+==**_Exercise 2. Map, visualize and analyze the evolution of your design space based on ways of drifting and reflect on the trajectories you might want to project. Create a narrative in relation to your alternative present_**==
 
-**_Exercises_**
-
-**1. From present continuities to alternative present**
-
-![](../images/Design%20Studio2/Design%20Process.jpg)
-
-
-**2. Map, visualize and analyze the evolution of your design space based on ways of drifting and reflect on the trajectories you might want to project. Create a narrative in relation to your alternative present**
-
+![](../images/Design%20Studio2/my%20ways%20of%20drifting.png)
 
 ______________________________
-## **Reflection**
+## **Deliverable**
+
+> _Plan your first design intervention of the term and map the actors and infrastructure you want to involve. Carry out your 1st design intervention from a 1PP with your community of practice (involve yourself in the context you want to work on). Document the design intervention, analyze it and reflect on the findings._
 
 __________________
-## **Deliverable**
+## **Reflection**
