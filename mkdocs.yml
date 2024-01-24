@@ -28,6 +28,8 @@ nav:
       - extended intelligences: term1/Extended Intelligences
 
   - Term 2:
+      - design studio: 
+        - first session: term2/Session 1.md
       - design in a state of climate emergency: term2/ClimateEmergency.md
       - communicating ideas: term2/CommunicatingIdeas.md
       - future talks: term2/FutureTalks.md
