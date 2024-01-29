@@ -21,19 +21,37 @@ _by Carmen & Núria_
 
 **3.Fabriaction files**
 
-<iframe src="https://drive.google.com/file/d/1WV4SkuWN3EyMLOiyFW_jjc6nAjSrjmyT/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1WV4SkuWN3EyMLOiyFW_jjc6nAjSrjmyT/preview" width="640" height="250" allow="autoplay"></iframe>
 
 
 **4.Reflection: The four F’s of active reviewing**
 
-- Facts: An objective account of what happened
-    - 2 iterations because of the biomaterial recipe
-- Feelings: The emotional reactions to the situation 
-    - cwpc
-- Findings: The concrete learning that you can take away from the situation 
-    - wfalq
-- Future: Structuring your learning such that you can use it in the future 
-    - alkf
+Facts:
+
+- We had to make two iterations of the gelatin-based biomaterial because we did not put Glycerol in the first recipe. This caused the material, when it dried, to deform upwards and become very stiff, which we were not interested in.
+
+- In the second iteration, we added Glycerol to the mixture and covered the material while it was drying, to avoid the previous deformations. Since we used an unsterilized surface to cover the material, moisture and dirt accumulated and when we returned from the weekend, organisms had grown.
+
+- We had to use the double of acrylic material in order to make a mold, the trimmed part of the mold, and the base so that the biomaterial would not fall off.
+
+Feelings:
+
+- We felt a little silly making two mistakes with such a simple biomaterial recipe. Yet we were motivated to make it work.
+
+- Regarding the acrylic material, we feel bad about using more material than we should have.
+
+Findings:
+
+- If we had done small trials of the biomaterial, before the final one, we would not have made these mistakes.
+
+- When using biomaterials it is difficult to control the time, and you have to be at the mercy of the material.
+
+- You have to think about the manufacturing process and the material to be used beforehand.
+ 
+Future:
+
+- I will think before I go straight to making, I will make a plan and list of materials to keep in mind.
+ 
 
 
 ---
