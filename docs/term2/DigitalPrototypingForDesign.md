@@ -19,6 +19,8 @@ _by Carmen & Núria_
 
 ![](../images/Prototyping/Procés.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0cLL_Nu7nfY?si=LmL6-BlNchwVKKeV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **3.Fabriaction files**
 
 <iframe src="https://drive.google.com/file/d/1WV4SkuWN3EyMLOiyFW_jjc6nAjSrjmyT/preview" width="640" height="250" allow="autoplay"></iframe>
