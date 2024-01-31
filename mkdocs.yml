@@ -12,29 +12,32 @@ nav:
   - Home: index.md
   - About: about/me.md
   - Term 1:
-      - design studio: 
+      - 0.design studio: 
         - first session: term1/Session 1.md
         - second session: term1/Session 2.md
         - third session: term1/Session 3.md
         - fourth session: term1/Session 4.md
         - fifth session - Design Dialogues I: term1/Session 5.md
-      - documenting design: term1/Documenting Design.md 
-      - atlas of weak signals: term1/Atlas of Weak Signals.md
-      - the machine paradox: term1/The Machine Paradox2.md
-      - living with your own ideas: term1/Living With Your Own Ideas.md
-      - biology zero: term1/Biology Zero.md
-      - agriculture zero: term1/Agri Zero.md  
-      - design with others: term1/Design with others.md
-      - extended intelligences: term1/Extended Intelligences
+      - 1.documenting design: term1/Documenting Design.md 
+      - 2.atlas of weak signals: term1/Atlas of Weak Signals.md
+      - 3.the machine paradox: term1/The Machine Paradox2.md
+      - 4.living with your own ideas: term1/Living With Your Own Ideas.md
+      - 5.biology zero: term1/Biology Zero.md
+      - 6.agriculture zero: term1/Agri Zero.md  
+      - 7.design with others: term1/Design with others.md
+      - 8.extended intelligences: term1/Extended Intelligences
 
   - Term 2:
-      - design studio: 
+      - 0.design studio: 
         - future talks: term2/FutureTalks.md
         - first session: term2/Session 1.md
-      - design in a state of climate emergency: term2/ClimateEmergency.md
-      - communicating ideas: term2/CommunicatingIdeas.md
-      - digital prototyping for design: term2/DigitalPrototypingForDesign.md
-      - fair future(s): term2/FairFutures.md
+      - 1.state of climate emergency: term2/ClimateEmergency.md
+      - 2.communicating ideas: term2/CommunicatingIdeas.md
+      - 3.digital prototyping: term2/DigitalPrototypingForDesign.md
+      - 4.fair future(s): term2/FairFutures.md
+      - 5.measuring the world: term2/measuring the world.md
+      - 6.extended intelligences: term2/Extended Intelligences.md
+
 
 
   - Thesis:
