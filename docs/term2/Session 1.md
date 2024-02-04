@@ -75,5 +75,10 @@ ______________________________
 
 > _Plan your first design intervention of the term and map the actors and infrastructure you want to involve. Carry out your 1st design intervention from a 1PP with your community of practice (involve yourself in the context you want to work on). Document the design intervention, analyze it and reflect on the findings._
 
+
+![](../images/Design%20Studio2/A.png)
+![](../images/Design%20Studio2/B.png)
+![](../images/Design%20Studio2/Gif_Mesa-de-trabajo-1.gif)
+
 __________________
 ## **Reflection**

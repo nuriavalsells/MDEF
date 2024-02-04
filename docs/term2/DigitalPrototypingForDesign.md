@@ -64,7 +64,32 @@ Future:
 
 > 31-1 January 2024
 
-### Documentation & Reflection
+### **Task: Design and 3D print a mould to grow your own materials (Mycelium).**
+_by Carmen & Núria_
+
+**1.References**
+
+**2.Pictures of the process**
+
+**3.Fabriaction files**
+
+**4.Reflection: The four F’s of active reviewing**
+
+Facts:
+
+- 
+
+Feelings:
+
+- 
+
+Findings:
+
+- 
+ 
+Future:
+
+- 
 
 
 
