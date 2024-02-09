@@ -63,6 +63,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#measuring-the-world" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -543,6 +548,8 @@
     
     <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
+      
+    
     
     <a href="./" title="5.measuring the world" class="md-nav__link md-nav__link--active">
       5.measuring the world
@@ -625,6 +632,21 @@
               </div>
             
             
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content">
             <article class="md-content__inner md-typeset">
@@ -634,9 +656,253 @@
                   
                 
                 
-                  <h1>5.measuring the world</h1>
-                
-                
+                <h1 id="measuring-the-world"><strong>Measuring the World</strong><a class="headerlink" href="#measuring-the-world" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p>Oscar Gonzalez, Adau Surinach &amp; Guillem Camprodon</p>
+<p>7-9 February 2024</p>
+</blockquote>
+<hr />
+<h1 id="sense-making-journal-healthier-city-navigation"><a href="https://hackmd.io/uqV0O0QqQgC3rkSMgWcbgg?both">Sense-Making Journal: Healthier City Navigation</a><a class="headerlink" href="#sense-making-journal-healthier-city-navigation" title="Permanent link">&para;</a></h1>
+<p><em><strong>MDEF:</strong> Measuring the world / A world in data activity report.</em></p>
+<p><em><strong><code>Team name</code></strong> Núria, Jorge D., Oliver, Marius, Carlotta and Everardo</em></p>
+<p><strong>Journal Index</strong></p>
+<div class="toc">
+<ul>
+<li><a href="#measuring-the-world">Measuring the World</a></li>
+<li><a href="#sense-making-journal-healthier-city-navigation">Sense-Making Journal: Healthier City Navigation</a><ul>
+<li><a href="#objectives-hypothesis">Objectives -&gt; Hypothesis</a><ul>
+<li><a href="#brainstorming">Brainstorming</a></li>
+<li><a href="#project-goals">Project Goals</a></li>
+<li><a href="#hypothesis">Hypothesis</a></li>
+<li><a href="#tips">Tips</a></li>
+</ul>
+</li>
+<li><a href="#hypothesis-data">Hypothesis -&gt; Data</a><ul>
+<li><a href="#tools-selection">Tools selection</a></li>
+<li><a href="#tool-usage-documentation">Tool usage documentation</a><ul>
+<li><a href="#data-capturing-strategy">Data capturing strategy</a></li>
+<li><a href="#materials-needed">Materials needed</a></li>
+<li><a href="#detail-setup-instructions-raspberry-pi-camera">Detail setup instructions (Raspberry Pi Camera)</a></li>
+<li><a href="#data-collected">Data collected</a></li>
+</ul>
+</li>
+<li><a href="#tips_1">Tips</a></li>
+</ul>
+</li>
+<li><a href="#data-information">Data -&gt; Information</a><ul>
+<li><a href="#data-summary">Data summary</a><ul>
+<li><a href="#brightness-levels-depending-on-the-neighbourhood">Brightness levels depending on the neighbourhood</a></li>
+<li><a href="#lighting-maps-using-found-data-vs-collected-data">Lighting Maps Using Found Data vs Collected Data</a></li>
+<li><a href="#comparison-between-real-data-recolected-by-us-and-sketchup-shadow-plug-in">Comparison between real data recolected by us, and SketchUp shadow plug in</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#learning-outcomes">Learning Outcomes</a><ul>
+<li><a href="#conclusion-of-the-results">Conclusion of the Results</a></li>
+<li><a href="#tips_2">Tips</a></li>
+</ul>
+</li>
+<li><a href="#future-explorations">Future explorations</a></li>
+<li><a href="#presentation">Presentation</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2 id="objectives-hypothesis"><code>Objectives</code> -&gt; <code>Hypothesis</code><a class="headerlink" href="#objectives-hypothesis" title="Permanent link">&para;</a></h2>
+<h3 id="brainstorming">Brainstorming<a class="headerlink" href="#brainstorming" title="Permanent link">&para;</a></h3>
+<p><img alt="Post-it ideation" src="https://hackmd.io/_uploads/SyVFyeWoT.jpg" /></p>
+<h3 id="project-goals">Project Goals<a class="headerlink" href="#project-goals" title="Permanent link">&para;</a></h3>
+<p><strong>Objective:</strong> <del>We want to navigate the city in the healthiest way possible</del> We want to have an unobstructed view of the sky in Barcelona. </p>
+<p><strong>Questions:</strong> </p>
+<p><strong>Sound pollution and air pollution</strong></p>
+<ul>
+<li>
+<p>Are the sound levels throughout the city below the healthy limit? (85 dB) Day? Night?</p>
+</li>
+<li>
+<p>Is the air quality at a level that is healthy to exercise outside?</p>
+</li>
+</ul>
+<p><strong>Sunlight and visible sky</strong></p>
+<ul>
+<li>
+<p>Can we decide where to go have a vermut depending on the sun?</p>
+</li>
+<li>
+<p><strong><em>Can you walk around the streets of Bcn and get a healthy amount of sunlight?</em></strong></p>
+</li>
+<li>
+<p><strong><em>Is the sky in Barcelona visible enough to not feel caged?</em></strong></p>
+</li>
+</ul>
+<p><strong>Illumination and street safety</strong></p>
+<ul>
+<li>Are the streets of the city illuminated enough to feel safe for walkers? (Specially women)</li>
+</ul>
+<p><strong>Sensorly and mobility inclusion</strong></p>
+<ul>
+<li>
+<p>Is the Barcelona metro sensorly inclusive?</p>
+</li>
+<li>
+<p>Is every part of the city reachable for everyone? (mobility &amp; inclusion)</p>
+</li>
+<li>
+<p>Are the lightlevels in the metro at a level that is positive for ones mental health? </p>
+</li>
+</ul>
+<h3 id="hypothesis">Hypothesis<a class="headerlink" href="#hypothesis" title="Permanent link">&para;</a></h3>
+<p>There is not enough connection to the natural sky in Barcelona.</p>
+<h3 id="tips">Tips<a class="headerlink" href="#tips" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Try and focus on one area instead of all the things at once</li>
+<li>Focus on things you are passionate about as it will be easier to research and spend time on</li>
+</ul>
+<h2 id="hypothesis-data"><code>Hypothesis</code> -&gt; <code>Data</code><a class="headerlink" href="#hypothesis-data" title="Permanent link">&para;</a></h2>
+<h3 id="tools-selection">Tools selection<a class="headerlink" href="#tools-selection" title="Permanent link">&para;</a></h3>
+<p>We fighted for the Raspberry Pi Camera for our exercise. We plan to gather data about the direct sunlight that the streets of Barcelona get, to find a way to navigate through the city in a healthier way, wether is gettinf vitamin D from the sun during the winter, or avoiding the sun rays during the summer.</p>
+<p>We consider a camera is very important for our exercise because we don&rsquo;t want to measure the temperature or the light level, but we want to see what areas of the sidewalks are in contact with sunlight.</p>
+<p>We though about alternatives, when we were discussing with other groups, and found some ways to change our exercise, through a physical action for example, but we still think the camera is the one that fits us the most.</p>
+<p><img alt="RaspberryPiCamera" src="https://hackmd.io/_uploads/ByFqkrzip.jpg" /></p>
+<h3 id="tool-usage-documentation">Tool usage documentation<a class="headerlink" href="#tool-usage-documentation" title="Permanent link">&para;</a></h3>
+<p><em>How can others replicate your data capturing process again?</em></p>
+<p>Our data capturing process is easyly replicable. They would need to gather the materials, preferably 1 Raspberry Pi camera and 5 smartphones, and divide the group on the following areas of Barcelona to do the exercise: Sagrada Familia, Eixample Esquerra, Putxet, Ciutat Vella, Sant Martí and El Clot/Poblenou.</p>
+<h4 id="data-capturing-strategy">Data capturing strategy<a class="headerlink" href="#data-capturing-strategy" title="Permanent link">&para;</a></h4>
+<p>We decided to take advantage of the little time we had to collect as much data as possible, but we only had a Raspberry Pi camera. To make the best use of the exercise, we decided to use the cameras of our phones, so we could capture more images simultaneously.</p>
+<p>Each of us had to complete the following actions:</p>
+<ul>
+<li>Take 10 pictures of 10 different streets in our neighborhood during the day.</li>
+<li>Take 10 pictures of 10 different streets in our neighborhood during the night.</li>
+</ul>
+<p>In this way, being 6 in the group, we managed to collect 120 images with relevant information for our exercise. </p>
+<h4 id="materials-needed">Materials needed<a class="headerlink" href="#materials-needed" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Raspberry Pi Camera (only one person used it)</li>
+<li>5 smartphone cameras (the rest of the group)</li>
+</ul>
+<h4 id="detail-setup-instructions-raspberry-pi-camera">Detail setup instructions (Raspberry Pi Camera)<a class="headerlink" href="#detail-setup-instructions-raspberry-pi-camera" title="Permanent link">&para;</a></h4>
+<ol>
+<li>Insert an micro sd card into your computer and load Raspberry OS on it</li>
+<li>Connect the Raspberry Pi to a power source (powerbank, wall outlet through a 5V charger)</li>
+<li>Connect the Raspberry Pi to a monitor and a keyboard (<em>this will make it easier to do the next few steps</em>)</li>
+<li>When the Pi has booted up completely,you will be prompted to login with the username and password you set up during step 1. You can begin the process of connecting it to a wireless network.</li>
+</ol>
+<p>(<em>If using a mobile hotspot as the wireless network and you are using an iPhone, make sure that the &ldquo;maximise compatibility&rdquo; feature is turned on in your hotspot settings. If you are using an android device it should be fine.This is because older models of the raspberry pi cannot connect to a 5G network natively.</em>)</p>
+<ol>
+<li>In the terminal interface of the Pi run the command &ldquo;sudo raspi-config&rdquo;, this will bring up the raspberry pi configuration window. Navigate to and select the wireless configuration option. </li>
+<li>Connect to a Wireless Network ~ You will be prompted to enter the name of your wireless network, hit &ldquo;Enter&rdquo; then enter your network&rsquo;s password nad hit &ldquo;Enter&rdquo;. You should now be connected to the WiFi network.</li>
+<li>From the terminal inside the Raspberry Pi OS you need to install the RPi-Cam-Web-Interface. You can follow the instructions to do so <a href="https://elinux.org/RPi-Cam-Web-Interface">here</a></li>
+</ol>
+<p><em>Once you&rsquo;ve installed this interface, you can  move on to the next steps</em></p>
+<ol>
+<li>To check that your pi has connected to your desired network, install a network scanning software like <a href="https://www.advanced-ip-scanner.com/es/">Advanced ip scanner</a></li>
+<li>Run this program, and start scanning your network for IP addresses connected to the network. </li>
+<li>You will be able to identify your raspberry pi&rsquo;s IP address by its device manufacturer identification in this case &ldquo;Raspberry Foundation&rdquo;</li>
+<li>Once you&rsquo;ve found your raspberry pi in the list of connected devices, copy and past the pi&rsquo;s unique IP address into your web browser of choice with /html at the end. <strong>e.g.</strong> 192.0.2.1/html</li>
+<li>
+<p>Once connected to the Pi via browser you should see the RPi interface dashboard with a live feed from the camera, and a series of buttons for various actions through the camera like taking photos, recording video or timelapse and accessing the stored photos and videos you&rsquo;ve taken. 
+<img alt="RPi Cam Control v6.6.26 mycam@pi.jpeg" src="https://hackmd.io/_uploads/Hk5J5DMsT.png" /></p>
+</li>
+<li>
+<p>Congratulations! You are now set up and ready to take pictures with your raspberry pi and camera. :D</p>
+</li>
+</ol>
+<h4 id="data-collected">Data collected<a class="headerlink" href="#data-collected" title="Permanent link">&para;</a></h4>
+<p>Daytime photos
+<img alt="IMG-20240208-WA0017 (1)" src="https://hackmd.io/_uploads/H1r5CEziT.jpg" /></p>
+<p>Nightime photos
+<img alt="IMG_4756 (1)" src="https://hackmd.io/_uploads/rJ5YCVfi6.jpg" /></p>
+<h3 id="tips_1">Tips<a class="headerlink" href="#tips_1" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Try and focus on the same time frame for each pictures to get a better result</li>
+<li>Take more time to specify on different areas at different timeframes to get wider range of data</li>
+<li>Explore a wider range of areas to get a completer set of data</li>
+</ul>
+<h2 id="data-information"><code>Data</code> -&gt; <code>Information</code><a class="headerlink" href="#data-information" title="Permanent link">&para;</a></h2>
+<h3 id="data-summary">Data summary<a class="headerlink" href="#data-summary" title="Permanent link">&para;</a></h3>
+<h4 id="brightness-levels-depending-on-the-neighbourhood">Brightness levels depending on the neighbourhood<a class="headerlink" href="#brightness-levels-depending-on-the-neighbourhood" title="Permanent link">&para;</a></h4>
+<p>To analyze the data we used a variety of methods. The first one we did was using a python code to create grayscale images and then score the brightness between 0 (darkness) and 255(ultimate brightness). 
+<a href="https://drive.google.com/drive/folders/1qAixeyf44rdwjEV9SunS5fq08_O7n1Ge?usp=sharing">Images Taken</a>
+<a href="https://drive.google.com/file/d/1QKK2Q41YYNZMabSOUOeHcx8p3JIgEbuU/view?usp=sharing">Code Used</a> 
+<a href="https://docs.google.com/spreadsheets/d/1l1ePnkekDLylqL7D_hXzZKzL3lYDbhDb4eF5P5soyEM/edit?usp=sharing">Data Used</a></p>
+<p>It is important to say that as the eixample images were shot with the raspberry pi the quality and light could potentially be different then the images shot with the phone and cameras. These images were then exported into a csv file and used to create the following graphs.</p>
+<p><em>Average brightness in each neighbourhood at day and night</em>
+<img alt="chart" src="https://hackmd.io/_uploads/BJWYvDGsp.png" /></p>
+<p><em>Brightness per situation per neighbourhood</em></p>
+<p>The next graphs created were scatterplots of each neighbourhood using the data collected during day and night 
+to see the relative brightness of each picture at different times of day. </p>
+<p><img alt="Lighting Situation Gotica_Raval" src="https://hackmd.io/_uploads/SJ23vDfiT.png" />
+<img alt="Lighting Situation Eixample" src="https://hackmd.io/_uploads/rJ2hDDGoT.png" />
+<img alt="Lighting Situation Sant Marti" src="https://hackmd.io/_uploads/Syn2vwMsT.png" />
+<img alt="Lighting Situation Sagrada Familia Night" src="https://hackmd.io/_uploads/ByhhDDfj6.png" />
+<img alt="Lighting Situation Putxet Overday" src="https://hackmd.io/_uploads/S132Dwfja.png" />
+<img alt="Lighting Situation Sant Marti Night" src="https://hackmd.io/_uploads/H133wDGop.png" />
+<img alt="Lighting Situation Poblenou Morning (1)" src="https://hackmd.io/_uploads/S1T-dwfiT.png" /></p>
+<h4 id="lighting-maps-using-found-data-vs-collected-data">Lighting Maps Using Found Data vs Collected Data<a class="headerlink" href="#lighting-maps-using-found-data-vs-collected-data" title="Permanent link">&para;</a></h4>
+<p>Using the data we collected about the light at night and the average levels in each neighbourhood we mapped the level of light pollution that could be found. (With this map the whiter the yellow the color the more light pollution)</p>
+<p><img alt="dtafromus-2" src="https://hackmd.io/_uploads/H1OlmK7iT.jpg" /></p>
+<p>We then went and looked for more opensource data that we could use to create a better map that takes more factors into account then just the small sample we had. The data we used was <a href="https://www.lightpollutionmap.info/#zoom=12.21&amp;lat=41.3796&amp;lon=2.1524&amp;state=eyJiYXNlbWFwIjoiTGF5ZXJCaW5nUm9hZCIsIm92ZXJsYXkiOiJ2aWlyc18yMDIzIiwib3ZlcmxheWNvbG9yIjp0cnVlLCJvdmVybGF5b3BhY2l0eSI6NjAsImZlYXR1cmVzb3BhY2l0eSI6ODV9">LightPollutionMap</a>
+<img alt="datafromothers-2" src="https://hackmd.io/_uploads/r1Lgmtmia.jpg" /></p>
+<h4 id="comparison-between-real-data-recolected-by-us-and-sketchup-shadow-plug-in">Comparison between real data recolected by us, and SketchUp shadow plug in<a class="headerlink" href="#comparison-between-real-data-recolected-by-us-and-sketchup-shadow-plug-in" title="Permanent link">&para;</a></h4>
+<p><img alt="Comparison2" src="https://hackmd.io/_uploads/BJRW1wfsT.jpg" /></p>
+<p><img alt="Comparison2-02" src="https://hackmd.io/_uploads/rkcS1DMop.jpg" /></p>
+<p><img alt="Comparison2-03" src="https://hackmd.io/_uploads/HklI1Dzsp.jpg" /></p>
+<p><img alt="Comparison2-04" src="https://hackmd.io/_uploads/Sk48kPziT.jpg" /></p>
+<p><img alt="Comparison2-05" src="https://hackmd.io/_uploads/rku81DGsT.jpg" /></p>
+<p><br></br></p>
+<h2 id="learning-outcomes">Learning Outcomes<a class="headerlink" href="#learning-outcomes" title="Permanent link">&para;</a></h2>
+<h3 id="conclusion-of-the-results">Conclusion of the Results<a class="headerlink" href="#conclusion-of-the-results" title="Permanent link">&para;</a></h3>
+<p>With the data we have recollected and the information already existing in the shadow SketchUp plug in (having previously compared and verified that they are true), we have designed a reccomended route for people living in Ciutat Vella, Eixample and Sagrada Familia to have a healthy 20 minute walk in the sun that will:</p>
+<ul>
+<li>
+<p><strong>Vitamin D synthesis:</strong> Sunlight is a natural source of vitamin D, and exposure to sunlight triggers the synthesis of this essential vitamin in the skin. Vitamin D is crucial for bone health, immune function, and overall well-being.</p>
+</li>
+<li>
+<p><strong>Mood improvement:</strong> Sunlight exposure stimulates the production of serotonin, a neurotransmitter that contributes to feelings of well-being and happiness. Sunlight exposure is associated with improved mood and can help alleviate symptoms of conditions like seasonal affective disorder (SAD).</p>
+</li>
+<li>
+<p><strong>Increased energy levels:</strong> Sunlight exposure can boost energy levels and reduce feelings of fatigue. The combination of fresh air and natural light during a walk can invigorate and rejuvenate the body.</p>
+</li>
+<li>
+<p><strong>Better sleep:</strong> Exposure to natural light during the day helps regulate the body&rsquo;s circadian rhythm, promoting better sleep quality. This can positively impact overall health and well-being.</p>
+</li>
+<li>
+<p><strong>Physical activity:</strong> A 20-minute walk provides a moderate form of exercise that contributes to cardiovascular health, improved circulation, and weight management. Regular physical activity is associated with numerous health benefits, including reduced risk of chronic diseases.</p>
+</li>
+<li>
+<p><strong>Stress reduction:</strong> Spending time outdoors, especially in natural settings, has been linked to stress reduction. The combination of sunlight, fresh air, and nature can have a calming effect on the mind and body.</p>
+</li>
+<li>
+<p><strong>Improved concentration and focus:</strong> Physical activity and exposure to sunlight have been shown to enhance cognitive function. Taking a short walk in the sun may help improve concentration and mental clarity.</p>
+</li>
+<li>
+<p><strong>Enhanced immune function:</strong> Adequate vitamin D levels, obtained through sunlight exposure, play a role in supporting a healthy immune system. A well-functioning immune system is crucial for defending the body against infections and illnesses.</p>
+</li>
+</ul>
+<iframe src="https://drive.google.com/file/d/1ABF3Y_fuJx2FqJjUHfWB7HlzsLbcS-vG/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<h3 id="tips_2">Tips<a class="headerlink" href="#tips_2" title="Permanent link">&para;</a></h3>
+<p>One thing we could improve in the future is using the same tool for all the images. The initial plan was to use the Pi to take most of the pictures in the neighbourhood and suplement those with photos from phones when needed. </p>
+<p>The setup took much longer than we expected, so we chose to mostly rely on our phone cameras which led to images that varied in quality more then if one single camera had been used with the same settings. </p>
+<p>We learned that collecting data means needing to adjust to different set backs and reflecting on which ways your data might differ then the plan.  </p>
+<p><br></br></p>
+<h2 id="future-explorations">Future explorations<a class="headerlink" href="#future-explorations" title="Permanent link">&para;</a></h2>
+<p>Build an interface similar to Google Maps, that could reccomend healthier routes for people navigating the city depending on:</p>
+<ul>
+<li>Direct sunlight contact (the one we explored)</li>
+<li>Visiblility of the sky</li>
+<li>Sound pollution levels</li>
+<li>Air pollution levels</li>
+<li>Street illumination and street safety</li>
+<li>Sensorly inclusivity</li>
+</ul>
+<p>Taking data from already built networks in the city like Smart Citizen or other similar projects.</p>
+<p><em>As an inspiration, we have found a similar project that modeled direct sunlight and shades and developed a tool that creates optimal routes for heat prevention: seeking shady sidewalks, drinking fountains or places to take shelter.</em></p>
+<p><a href="https://cool.bcnregional.com/">https://cool.bcnregional.com/</a> </p>
+<p><img alt="Inspiration" src="https://hackmd.io/_uploads/BkQO5_Gi6.png" /></p>
+<h2 id="presentation">Presentation<a class="headerlink" href="#presentation" title="Permanent link">&para;</a></h2>
+<iframe src="https://drive.google.com/file/d/1oZE9mHjNlKVq8SvNcj0Hfhg5m0Z-4nVO/preview" width="640" height="480" allow="autoplay"></iframe>
                 
                   
                     
@@ -645,7 +911,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">February 4, 2024</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">February 9, 2024</span>
     
   </small>
 </div>
