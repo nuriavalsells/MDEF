@@ -69,9 +69,17 @@ _by Carmen & Núria_
 
 **1.References**
 
+![](../images/Prototyping/Moodboard2.jpg)
+
 **2.Pictures of the process**
 
 **3.Fabriaction files**
+
+We decided to use an open source model that really fit into our project. It's a mold for cement but we made some alteration to make it for mycelium.
+
+![](../images/Prototyping/fabricationFile1.jpg){ width="350" } 
+
+[You can find the file here](https://cults3d.com/en/3d-model/home/drop-ashtray)
 
 **4.Reflection: The four F’s of active reviewing**
 
@@ -90,18 +98,6 @@ Findings:
 Future:
 
 - 
-
-
-
----
-## Coding 1
-> Measuring the World
-
-> Oscar Gonzalez
-
-> 6-9 February 2024
-
-### Documentation & Reflection
 
 
 
