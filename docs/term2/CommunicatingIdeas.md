@@ -56,5 +56,17 @@ I am satisfied with my questions, I think they are a very good starting point to
 
 ### Personal Project
 
+When I start to think about the nerrative of my project, what voice it has, what personality I want to give it, what actions move it? These are the first results: 
+
+![](../images/CommunicatingIdeas/Graph1.jpg)
+![](../images/CommunicatingIdeas/Graph2.jpg)
+![](../images/CommunicatingIdeas/Graph3.jpg)
+![](../images/CommunicatingIdeas/Graph4.jpg)
+
 ### Tandem Project
+
+**What personality would I like this project to have?**
+
+![](../images/CommunicatingIdeas/TandemMoodboard.jpg)
+
 
