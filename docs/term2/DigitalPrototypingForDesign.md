@@ -73,6 +73,8 @@ _by Carmen & Núria_
 
 **2.Pictures of the process**
 
+![](../images/Prototyping/Process2.jpg)
+
 **3.Fabriaction files**
 
 We decided to use an open source model that really fit into our project. It's a mold for cement but we made some alteration to make it for mycelium.
@@ -85,19 +87,26 @@ We decided to use an open source model that really fit into our project. It's a 
 
 Facts:
 
-- 
+- The main idea we had (mixing mycelium with tobacco ashes) could not be completed due to timing problems.
+
+- The 3D printer in our class was not ready to print directly and we had trouble starting the print. After calibrating it, cleaning the bed well and applying some spray we got it done.
 
 Feelings:
 
-- 
+- Satisfaction that, almost, everything went right first time.
+
+- Nerves and expectations as the mycelium grew.
+
+- Fear that we had not sterilized the recipe sufficiently.
 
 Findings:
 
-- 
+- With materials that grow you have to be very patient, and plan the experiment well to be able to develop it as you want.
+
  
 Future:
 
-- 
+- In the future, I would like to create more than one mold simultaneously to be able to experiment with different shapes at the same time.
 
 
 
