@@ -1,61 +1,21 @@
 # Replace the text below to customize your site
-site_name: Núria's MDEF
-site_description: Master in Design for Emergent Futures
-site_author: núria valsells vilalta
-copyright: Copyleft 2023 "Núria Valsells Vilalta" - GNU Free Documentation License
+site_name: MDEF Micro Challenge
+site_description: MDEF Micro Challenge, Núria Valsells Vilalta & Marius Schairer
+site_author: Núria Valsells Vilalta & Marius Schairer
+copyright: Copyleft 2023 "Núria & Marius" - GNU Free Documentation License
 repo_name: 'nuria : Github Repo'
-site_url: https://nuriavalsells.github.io/test/
-repo_url: 'https://nuriavalsells.github.io/MDEF/'
+site_url: https://nuriavalsells.github.io/microchallenge1/
+repo_url: 'https://nuriavalsells.github.io/microchallenge1/'
 
 
 nav:
-  - Home: index.md
-  - About: about/me.md
-  - Term 1:
-      - 0.design studio: 
-        - first session: term1/Session 1.md
-        - second session: term1/Session 2.md
-        - third session: term1/Session 3.md
-        - fourth session: term1/Session 4.md
-        - fifth session - Design Dialogues I: term1/Session 5.md
-      - 1.documenting design: term1/Documenting Design.md 
-      - 2.atlas of weak signals: term1/Atlas of Weak Signals.md
-      - 3.the machine paradox: term1/The Machine Paradox2.md
-      - 4.living with your own ideas: term1/Living With Your Own Ideas.md
-      - 5.biology zero: term1/Biology Zero.md
-      - 6.agriculture zero: term1/Agri Zero.md  
-      - 7.design with others: term1/Design with others.md
-      - 8.extended intelligences: term1/Extended Intelligences
+  - Micro Challenge I: index.md
+ 
 
-  - Term 2:
-      - 0.design studio: 
-        - future talks: term2/FutureTalks.md
-        - first session: term2/Session 1.md
-        - second session: term2/Session 2.md
-      - 1.state of climate emergency: term2/ClimateEmergency.md
-      - 2.communicating ideas: term2/CommunicatingIdeas.md
-      - 3.digital prototyping: term2/DigitalPrototypingForDesign.md
-      - 4.fair future(s): term2/FairFutures.md
-      - 5.measuring the world: term2/measuring the world.md
-      - 6.extended intelligences: term2/Extended Intelligences.md
-
-
-
-  - Thesis:
-    - design space: project/Design Space.md
-    - thesis drafts: project/project.md
         
           
 
 extra:
-  social:
-    # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
-    - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/nuriava.design/ 
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/n%C3%BAria-valsells/ 
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/vilaltanuu 
 
 theme:
   name: material
