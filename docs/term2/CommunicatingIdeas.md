@@ -56,7 +56,7 @@ I am satisfied with my questions, I think they are a very good starting point to
 
 ### Personal Project
 
-When I start to think about the nerrative of my project, what voice it has, what personality I want to give it, what actions move it? These are the first results: 
+When I start to think about the narrative of my project, what voice it has, what personality I want to give it, what actions move it? These are the first results: 
 
 ![](../images/CommunicatingIdeas/Graph1.jpg)
 ![](../images/CommunicatingIdeas/Graph2.jpg)
@@ -68,5 +68,25 @@ When I start to think about the nerrative of my project, what voice it has, what
 **What personality would I like this project to have?**
 
 ![](../images/CommunicatingIdeas/TandemMoodboard.jpg)
+
+---
+## Session 3 - 13th February
+
+### Personal Project
+
+- Select at least 4 initial audiences you want to reach from your stakeholders:
+    - Think about the communication barriers with them
+    - Which media do they use and how?
+    - What do you want to achieve by communicating wth them?
+    - What will the message be?
+- Complete the canvas for audience engagement - communication matrix
+
+
+### Tandem Project
+
+- Complete the Brand Core template with Dhrishya's project:
+
+
+
 
 
