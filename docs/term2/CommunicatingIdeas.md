@@ -69,6 +69,14 @@ When I start to think about the narrative of my project, what voice it has, what
 
 ![](../images/CommunicatingIdeas/TandemMoodboard.jpg)
 
+> **Reflection:**
+
+I have to admit that thinking about my project in terms of "communication" right now is difficult. In fact, many of the things I have included in the Miro templates, I had not thought of before and were not preconceived. I decided to make the templates that I found most useful and most instinctive to respond to.
+
+I liked to be able to write, for example, the purpose of my project, the causes it fights for, the verbs and actions, the attitudes...
+
+I am very interested to see how these aspects progress, as for the moment they are very broad and with little detail. I wonder if, as the course progresses, I will change my mind a lot. For the time being, I am satisfied to see the more "communicative" part of the project written, it gives me something to hold on to in order to move forward.
+
 ---
 ## Session 3 - 13th February
 
@@ -81,12 +89,30 @@ When I start to think about the narrative of my project, what voice it has, what
     - What will the message be?
 - Complete the canvas for audience engagement - communication matrix
 
+![](../images/CommunicatingIdeas/CommunicationMatrix.png)
 
-### Tandem Project
+### Reflection
 
-- Complete the Brand Core template with Dhrishya's project:
+Doing the Communication Matrix, for me, has been a very useful exercise in the moment I am in the project. Right now, I am choosing in which communities I want to work. The exercise has not only helped me to think about how I would approach these communities, but also to make a list of these communities and see more clearly in which direction my project is going.
+
+The hardest part for me to answer was the "Media" part. I think that my project will have a fairly analogous media, without much presence in social networks (although not nonexistent, thes will be important to disseminate). Thinking in the initial phases in which I am, I must perceive the communication with my stakeholders as something individual, personalized and face to face.
 
 
 
 
 
+
+## Session 4 - 27th February
+
+### Personal Project
+
+Project Presentation: Microsite or slides defining your project, its personality, stakeholders, and
+communication strategy.
+
+<iframe src="https://drive.google.com/file/d/1cf3jqRQ3Tlca-NOrR5DWKYWrhh5gR6I5/preview" width="640" height="480" allow="autoplay"></iframe>
+
+### Reflection
+
+I liked the exercise of making the final presentation with the content I have been creating this trimester. I usually enjoy playing with graphic design and the way it communicates ideas and concepts. In this case, although at first I thought it didn't make much sense to put the content of the Miro board back into a presentation, I enjoyed the process and it helped me to organize the ideas, create a narrative and a graphic image of the project.
+
+In the course of this last trimester, between the different interventions and exercises in Pablo's class, I have been exploring different images and graphic identities that the project could have. Now, it's time for me to reflect and choose one of them to create a more monotonous and identifiable set.
