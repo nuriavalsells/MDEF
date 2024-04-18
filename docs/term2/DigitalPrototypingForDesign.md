@@ -123,41 +123,4 @@ Future:
 
 
 
-## Module 3
-> CNC Milling, 3D Scanning and Casting
-
-> Santiago Fuentemilla Garriga & Josep Martí
-
-> 21-22 February 2024
-
-### **Task: Fabricate (in pairs) ONE piece of furniture for your classroom**
-_by Carmen, Oliver & Núria_
-
-**1.References**
-
-**2.Pictures of the process**
-
-**3.Fabriaction files**
-
-**4.Reflection: The four F’s of active reviewing**
-
-Facts:
-
-Feelings:
-
-Findings:
-
-Future:
-
----
-## CHALLENGE 2
-> Prototyping together
-
-> Santiago Fuentemilla Garriga & Josep Martí
-
-> 5-8 March 2024
-
-### Documentation & Reflection
-
-
 

@@ -1,8 +1,8 @@
 # Replace the text below to customize your site
-site_name: MDEF Micro Challenge
-site_description: MDEF Micro Challenge, Núria Valsells Vilalta & Marius Schairer
-site_author: Núria Valsells Vilalta & Marius Schairer
-copyright: Copyleft 2023 "Núria & Marius" - GNU Free Documentation License
+site_name: Núria's MDEF
+site_description: Master in Design for Emergent Futures
+site_author: núria valsells vilalta
+copyright: Copyleft 2023 "Núria Valsells Vilalta" - GNU Free Documentation License
 repo_name: 'nuria : Github Repo'
 site_url: https://nuriavalsells.github.io/test/
 repo_url: 'https://nuriavalsells.github.io/MDEF/'
@@ -35,6 +35,7 @@ nav:
       - 1.state of climate emergency: term2/ClimateEmergency.md
       - 2.communicating ideas: term2/CommunicatingIdeas.md
       - 3.digital prototyping: term2/DigitalPrototypingForDesign.md
+        - micro challenges: term2/MicroChallenge.md
       - 4.fair future(s): term2/FairFutures.md
       - 5.measuring the world: term2/measuring the world.md
       - 6.extended intelligences: term2/Extended Intelligences.md
@@ -48,6 +49,14 @@ nav:
           
 
 extra:
+  social:
+    # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/nuriava.design/ 
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/n%C3%BAria-valsells/ 
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/vilaltanuu 
 
 theme:
   name: material
