@@ -1,4 +1,4 @@
-**Digital Prototyping for Design - Micro Challenges**
+# **Digital Prototyping for Design - Micro Challenges**
 
 ## CHALLENGE 1
 > Prototyping together

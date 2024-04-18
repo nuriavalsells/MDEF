@@ -1,7 +1,6 @@
-# **Future Talks**
+# Second Term Final Delivery
 
-
-## Session #1
+## Future Talks
 > Design with Values
 
 > Sally Bourdon & Olga Trevisanç
@@ -29,36 +28,9 @@ As a **general reflection** on the tool Reflection-Tree I would say it's a very 
 
 
 ---
-## Session #2
-> Networks of Co-Responsibility
-
-> Hangar’s WetLab
-
-> 5th February 2024
-
-### Contents & Reflection
+## Design Space
 
 
 
----
-## Session #3
-> Radical Situatedness (Flows, Knowledge and Infrastructures)
-
-> Bani Brusadin
-
-> 19th February 2024
-
-### Contents & Reflection
-
-
-
----
-## Session #4
-> Internet Tour
-
-> Mario Santamaría
-
-> 19th February 2024
-
-### Contents & Reflection
+## Video
 
