@@ -111,14 +111,33 @@ Future:
 
 
 ---
-## CHALLENGE 1
-> Prototyping together
+## Module 3
+> CNC manufacturing - Scaling manufacturing in distributed world
 
 > Santiago Fuentemilla Garriga & Josep Martí
 
-> 13-16 February 2024
+> 21-22 February 2024
 
-### Documentation & Reflection
+### **Task: Fabricate (in pairs) ONE piece of furniture for your classroom**
+_by Carmen, Oliver & Núria_
+
+**1.References**
+
+**2.Pictures of the process**
+
+**3.Fabriaction files**
+
+**4.Reflection: The four F’s of active reviewing**
+
+Facts:
+
+Feelings:
+
+Findings:
+
+Future:
+
+
 
 
 
