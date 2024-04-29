@@ -22,6 +22,8 @@ HOMEWORK FOR NEXT CLASS: 18/04
 
 - Finish the positioning canvas
 
+![](../images/CommunicatingIdeas/Positioning%20Canvas.png)
+
 - Open a social media/digital media account
 	- Generate 3-4 contents based on the canvas
 		- Article, videos, gallery, images, illustrations...
@@ -34,7 +36,7 @@ _Reflection_
 - need to make a narrative/story with the Anb, But, Therefore theory
 - very usefull chatgpt prompt - explain
 
-
+<br></br>
 
 ## Session 2 - 18th April - Laura
 
