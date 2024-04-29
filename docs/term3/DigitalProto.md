@@ -7,7 +7,7 @@
 > 23-30 April 2024
 
 ### **Task: Prototype your wearable and experiment with your training model.**
-_by Núria_
+_by Núria, Marius & Oliver_
 
 **1.References**
 
