@@ -1,10 +1,10 @@
 # **Digital Prototyping for Design**
-## Module 4
-> Sensing the body for meaningful interactions
+## Module 4 & 5
+> Sensing the body for meaningful interactions + Extended bodies with expressive Data
 
-> Santiago Fuentemilla Garriga & Citlali Hernández
+> Lina Bautista & Citlali Hernández
 
-> 23-24 April 2024
+> 23-30 April 2024
 
 ### **Task: Prototype your wearable and experiment with your training model.**
 _by Núria_
