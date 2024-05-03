@@ -28,6 +28,8 @@ HOMEWORK FOR NEXT CLASS: 18/04
 	- Generate 3-4 contents based on the canvas
 		- Article, videos, gallery, images, illustrations...
 
+![](../images/CommunicatingIdeas/LAIAInsta.png)
+
 
 _Reflection_
 
@@ -49,4 +51,8 @@ _INSIGHTS_
 - difference between the framework and the machine, how does the framework gather data?...
 
 - framework is too big right now
+
+
+
+## Session 3 - 3rd May - Pablo
 
