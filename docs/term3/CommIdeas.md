@@ -6,7 +6,7 @@
 
 ---
 
-## Session 1 - 9th April - Pablo
+## 9th April - Pablo
 
 **My project in a paragraph:** The project aims to make the city of Barcelona a more welcoming and easy enviroment for its citizens. We want to make the communities of the city thrive and give them the agency of decision making on a small and larger scale. Through community activities and new technologies, the neighbours of Barcelona will feel more connected between eachother and with their enviroment, enhacing citizen participation and reshaping of the urban landscape.
 
@@ -40,7 +40,7 @@ _Reflection_
 
 <br></br>
 
-## Session 2 - 18th April - Laura
+## 18th April - Laura
 
 LAIA is a framework we have designed to capture the collective knowledge of a community, to further process it in a collective intelligence artifact that can be used to enhace participation and awareness within the community and its enviroment. At this time, LAIA is being applied to the community of the neighbourhood El Clot. We have undertaken different workshops and today we present the current stage of the artifact that embodies the collective voice of the neighbourhood.
 
@@ -53,6 +53,4 @@ _INSIGHTS_
 - framework is too big right now
 
 
-
-## Session 3 - 3rd May - Pablo
 
