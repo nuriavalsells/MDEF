@@ -52,10 +52,13 @@ nav:
       - 4.digital prototyping: term3/DigitalProto.md
 
 
-  - Final Project:
-    - What, Why, Who, How: project/explanation.md
-    - MDEFest: project/MDEFest.md
-    - thesis drafts: project/project.md
+  - Laia Project:
+      - LAIA: project/laia.md
+      - learn more:
+       - context: project/context.md
+        - development: project/development.md
+        - future steps: project/future steps.md
+      - MDEFest: project/MDEFest.md
         
           
 
