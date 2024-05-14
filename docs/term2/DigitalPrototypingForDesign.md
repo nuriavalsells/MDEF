@@ -123,19 +123,35 @@ _by Carmen, Oliver & Núria_
 
 **1.References**
 
+![](../images/Prototyping/inspiration.png)
+
+
 **2.Pictures of the process**
+
+![](../images/cnc/1.jpg){ width="150" } 
+![](../images/cnc/2.jpg){ width="150" } 
+![](../images/cnc/3.jpg){ width="150" }
+![](../images/cnc/4.jpg){ width="150" }
+![](../images/cnc/5.jpg){ width="150" }
+![](../images/cnc/6.jpg){ width="300" }    
 
 **3.Fabriaction files**
 
-**4.Reflection: The four F’s of active reviewing**
+You can find the fabrication files in the following link: https://drive.google.com/drive/folders/1NmSh28hcguX5nGBE1HpGVCuo5WYQRLI6?usp=sharing
 
-Facts:
+The files are sorted by:
 
-Feelings:
+- Design 1 (The box design)
+    - CNC files
+    - Design Rhino
+- Design 2 (The shelving design)
+    - CNC files
+    - Design Rhino
+- Final design
+    - CNC files
+    - Design Rhino
+    - GCODE
 
-Findings:
-
-Future:
 
 
 
