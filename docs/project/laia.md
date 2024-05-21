@@ -1,6 +1,7 @@
 # ![](../images/Laia/Planning%20(1).png){width=70}
 
-VIDEO
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/948664337?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="LAIA, insta video draft"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 Laia Project responds to the gentrification of cities like Barcelona, focusing on preserving local knowledge. As cities globalize, communities weaken, covered by a focus on productivity. Online platforms replace traditional networks, taking the role of local institutions. Globalized media fuses cultural tastes, risking the loss of local identity. 
