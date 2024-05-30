@@ -15,8 +15,4 @@ _________________________
 ![](../images/Design%20Studio%203/DSCF2090.jpg){ width="340" } ![](../images/Design%20Studio%203/DSCF2099.jpg){ width="340" }
 
 
-## Insights
-
-
-## Now what?
 
