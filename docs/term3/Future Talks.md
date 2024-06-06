@@ -66,3 +66,24 @@ _Response-ability_ - is about both absence and presence, killing ans nurturing, 
 - If there is moeny to amplify the MACBA, there should be money to better the public spaces of Raval or even basic infrastructures.
 
 - We see the MACBA as a big impenetrable building where we don't belong in
+
+
+____
+> Aquí
+
+> 2nd May 2024
+
+---
+
+
+___
+> Krzysztof Wronski
+
+> 13th May 2024
+
+---
+
+
+___
+
+
