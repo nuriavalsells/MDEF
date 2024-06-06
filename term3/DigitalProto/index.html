@@ -774,13 +774,40 @@
     Module 4 &amp; 5
   </a>
   
-    <nav class="md-nav" aria-label="Module 4 &amp; 5">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
+</li>
+      
+        <li class="md-nav__item">
   <a href="#task-prototype-your-wearable-and-experiment-with-your-training-model" class="md-nav__link">
     Task: Prototype your wearable and experiment with your training model.
   </a>
+  
+    <nav class="md-nav" aria-label="Task: Prototype your wearable and experiment with your training model.">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#training-the-model" class="md-nav__link">
+    Training the Model
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#result" class="md-nav__link">
+    Result
+  </a>
+  
+    <nav class="md-nav" aria-label="Result">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#reflection-the-four-fs-of-active-reviewing" class="md-nav__link">
+    Reflection: The four F’s of active reviewing
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
         
@@ -941,13 +968,40 @@
     Module 4 &amp; 5
   </a>
   
-    <nav class="md-nav" aria-label="Module 4 &amp; 5">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
+</li>
+      
+        <li class="md-nav__item">
   <a href="#task-prototype-your-wearable-and-experiment-with-your-training-model" class="md-nav__link">
     Task: Prototype your wearable and experiment with your training model.
   </a>
+  
+    <nav class="md-nav" aria-label="Task: Prototype your wearable and experiment with your training model.">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#training-the-model" class="md-nav__link">
+    Training the Model
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#result" class="md-nav__link">
+    Result
+  </a>
+  
+    <nav class="md-nav" aria-label="Result">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#reflection-the-four-fs-of-active-reviewing" class="md-nav__link">
+    Reflection: The four F’s of active reviewing
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
         
@@ -979,16 +1033,68 @@
 <p>Lina Bautista &amp; Citlali Hernández</p>
 <p>23-30 April 2024</p>
 </blockquote>
-<h3 id="task-prototype-your-wearable-and-experiment-with-your-training-model"><strong>Task: Prototype your wearable and experiment with your training model.</strong><a class="headerlink" href="#task-prototype-your-wearable-and-experiment-with-your-training-model" title="Permanent link">&para;</a></h3>
+<h2 id="task-prototype-your-wearable-and-experiment-with-your-training-model"><strong>Task: Prototype your wearable and experiment with your training model.</strong><a class="headerlink" href="#task-prototype-your-wearable-and-experiment-with-your-training-model" title="Permanent link">&para;</a></h2>
 <p><em>by Núria, Marius &amp; Oliver</em></p>
-<p><strong>1.References</strong></p>
-<p><strong>2.Pictures of the process</strong></p>
-<p><strong>3.Fabriaction files</strong></p>
-<p><strong>4.Reflection: The four F’s of active reviewing</strong></p>
+<p>This digital prototyping session centered on utilizing either our custom device or another form of movement tracking to generate artistic outputs. We explored how our daily movements could be translated into sound. Imagine if your music was influenced by your walking speed.</p>
+<h3 id="training-the-model">Training the Model<a class="headerlink" href="#training-the-model" title="Permanent link">&para;</a></h3>
+<p><strong>From Movement to Data</strong></p>
+<p>The initial step involved capturing data from the phone, such as room position, GPS, and speed, and sending it to Wekinator. Once in Wekinator, we trained our model to differentiate between walking (0) and running (1).</p>
+<p>In a previous module, Citlali introduced us to a mobile app called “ZIG Sim,” which allows access to various phone sensors, including the accelerometer, gyroscope, microphone, and camera. This app can send sensor data via OSC messaging (among other methods) to another device for processing.</p>
+<p>Using this, we had Mars run and walk around the room with the phone in his pocket. However, we quickly realized the room was too small to collect accurate data, so we moved the training to the roof for a larger, straighter space to gather more precise data. Although we wanted to investigate more types of movement, time constraints limited our focus to this aspect.</p>
+<p><strong>Steps Taken</strong></p>
+<p>The process from training to the final output was straightforward but required navigating through various software and interactions. Once the basics were understood, numerous opportunities emerged. The project&rsquo;s goal was to explore: &ldquo;What if the songs you listened to changed based on whether you were running or not?&rdquo;</p>
+<p>Grabbing Data from Phone using ZIG Sim</p>
+<ol>
+<li>Data Collection with ZIG Sim:</li>
+<li>We used the ZIG Sim app on a phone to collect various data points, focusing on GPS, acceleration, and placement in the Z-axis.</li>
+<li>The data was then sent to Wekinator.</li>
+<li>To account for differences in individual movement, we trained the model on multiple people running and walking.</li>
+</ol>
+<p>Training the Model in Wekinator</p>
+<ol>
+<li>Model Training:</li>
+<li>While collecting data from the phone, we simultaneously sent it to the Wekinator application on a laptop.</li>
+<li>In Wekinator, we trained the model to recognize that running corresponds to a signal of 1 and walking corresponds to a signal of 0.</li>
+</ol>
+<p>Sending Data to Max8</p>
+<ol>
+<li>Connecting to Max8:</li>
+<li>After completing the training in Wekinator, we connected the model to Max8.</li>
+<li>The model was configured to send a signal of either 0 or 1 based on the movement data.</li>
+</ol>
+<p>Converting Received Input to Sound in Max8</p>
+<ol>
+<li>Sound Conversion in Max8:</li>
+<li>Using the received signal, we created a simple flow of code in Max8.</li>
+<li>This code switched between two sounds based on whether the signal was 0 or 1, effectively changing the music based on whether the user was walking or running.</li>
+</ol>
+<h3 id="result">Result<a class="headerlink" href="#result" title="Permanent link">&para;</a></h3>
+<p>In the end, we successfully created a model and code that enabled us to translate a person&rsquo;s running or walking into a corresponding song. It was exciting to see this in action because it suggests new ways for people to interact with their own movement, potentially enhancing experiences in dancing, running, or other sports.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gc8T83aijoU?si=2YmEhxAFmuDO9I5V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Click <a href="https://drive.google.com/drive/folders/1GyUP5U4Z0serdor8qmNFUkH-Sh0remx9"><strong>here to access the fabrication files.</strong></a></p>
+<h4 id="reflection-the-four-fs-of-active-reviewing">Reflection: The four F’s of active reviewing<a class="headerlink" href="#reflection-the-four-fs-of-active-reviewing" title="Permanent link">&para;</a></h4>
 <p>Facts:</p>
+<ul>
+<li>
+<p>Working with Oliver, Carlotta and Marius was easygoing and pleasing.</p>
+</li>
+<li>
+<p>I discovered new apps and technologies like ZIG Sim, Wekinator or Max8</p>
+</li>
+</ul>
 <p>Feelings:</p>
+<ul>
+<li>I feel like having an unrelated delivery from our project at tjis stage was a bit distracting but also satisfying, for being able to disconnect from what we are doing and do a completely different task.</li>
+</ul>
 <p>Findings:</p>
+<ul>
+<li>Sensors are not as complicated as I imagined and they have very fun and unexpected applications.</li>
+</ul>
 <p>Future:</p>
+<ul>
+<li>I don&rsquo;t plan on researching more on this topic in the near future but I&rsquo;ve enjoyed doing it now and I don&rsquo;t dicard it in the long run.</li>
+</ul>
                 
                   
                     
@@ -997,7 +1103,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">May 30, 2024</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">June 6, 2024</span>
     
   </small>
 </div>
