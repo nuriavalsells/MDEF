@@ -1,13 +1,51 @@
 # **Digital Prototyping for Design**
-## Module 4 & 5
-> Sensing the body for meaningful interactions + Extended bodies with expressive Data
+## Module 4
+> Sensing the body for meaningful interactions
 
 > Lina Bautista & Citlali Hernández
 
-> 23-30 April 2024
+> 23-24 April 2024
 
 ## **Task: Prototype your wearable and experiment with your training model.**
 _by Núria, Marius & Oliver_
+
+
+Using our newfound knowledge, we set about training a new model on the pressure inputs from a soft sensor we quickly built using conductive textiles, crocodile clips, and a Barduino board. We added a nifty feature that changed the color of a Neopixel LED mounted on the Barduino board from green to red along a gradient as the pressure increased, helping us visualize if the sensor was working correctly.
+
+Once we had the model trained, we tested it with the sensor and it worked! We successfully sent data over OSC from the sensor connected to the Barduino to the Wekinator program, and even through to a program called Processing for further visualization and complex output.
+
+
+### Result
+
+Click [**here to access the fabrication files.**](https://drive.google.com/drive/folders/1ISMmH5Zrhcg21OcYD3ChOEc8hxaEhfmF)
+
+![](../images/Prototyping/soft%20sensor%20with%20barduino.gif)
+
+
+#### Reflection: The four F’s of active reviewing
+
+Facts:
+
+
+Feelings:
+
+
+Findings:
+
+
+Future:
+
+
+
+## Module 4
+> Extended bodies with expressive Data
+
+> Lina Bautista & Citlali Hernández
+
+> 29-30 April 2024
+
+## **Task: Prototype your wearable and experiment with your training model.**
+_by Núria, Marius, Oliver & Carlotta_
 
 This digital prototyping session centered on utilizing either our custom device or another form of movement tracking to generate artistic outputs. We explored how our daily movements could be translated into sound. Imagine if your music was influenced by your walking speed.
 
@@ -78,3 +116,22 @@ Findings:
 Future:
 
 - I don't plan on researching more on this topic in the near future but I've enjoyed doing it now and I don't dicard it in the long run.
+
+
+## MicroChallenge III
+> Santiago Fuentemilla Garriga
+
+> 7-10 May 2024
+
+---
+### Documentation
+
+Click [**here to access the 3rd MicroChallenge repository.**](https://github.com/LAIA-GitHub/Laia-Speech-to-Speech)
+
+### Reflection
+
+- It was a satisfying week, we achieved the goals we had: have a full stack code of our ideal vision of Laia.
+- I missed the digital fabrication part, I wish we had had more time to change Laia physically and create a new prototype.
+- In terms of coding, we got to a point that we had never imagined, we learnt a lot more than we expected.
+- We had a lot of help, specially from Pietro and Chris, they were the type of teachers that give you tools, not do the thing for you. The tools and resources such as Langchain or FasAPI were extremely usefull for the moment and the future.
+- Our master project has advanced greatly thanks to the MicroChallenge III and we appreciate a lot having time to be able to focus only on it during a full week.

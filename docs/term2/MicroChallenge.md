@@ -31,7 +31,7 @@ Overall, this exercise has helped me to dig a little deeper into the world of pr
 > 5-8 March 2024
 
 ---
-Here you will find our Micro Challenge repository with the documentation of the whole process we undertook that week: https://hackmd.io/vz8t1qg0T2yzbrudc_p6dw?view 
+Here you will find our Micro Challenge repository with the documentation of the whole process we undertook that week: https://github.com/LAIA-GitHub/MicroChallengeII
 
 ### Reflection
 The experience of this second Micro Challenge, for me, has been completely different. At first, I felt that we had an advantage over the first Challenge from the beginning because we already knew what we were up against. My expectations of capabilities, materials, work rhythms, available resources and possible support from the teachers, were very well placed thanks to the fact that it was the second time doing a Micro Challenge.
