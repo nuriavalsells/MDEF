@@ -37,7 +37,7 @@ Future:
 
 
 
-## Module 4
+## Module 5
 > Extended bodies with expressive Data
 
 > Lina Bautista & Citlali Hernández
@@ -126,7 +126,7 @@ Future:
 ---
 ### Documentation
 
-Click [**here to access the 3rd MicroChallenge repository.**](https://github.com/LAIA-GitHub/Laia-Speech-to-Speech)
+Click [**here to access the 3rd MicroChallenge repository.**](https://github.com/marius-schairer/MicroChallange3-LAIA)
 
 ### Reflection
 
